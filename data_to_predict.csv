@@ -1,0 +1,1797 @@
+Type,Region,Make,Gear_Type,Origin,Options,Year,Engine_Size,Mileage,Negotiable
+Corolla,Abha,Toyota,Manual,Saudi,Standard,2013,1.4,421000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2020,4.0,49000,True
+LS,Aseer,Lexus,Automatic,Saudi,Full,1998,4.6,300,True
+Hilux,Yanbu,Toyota,Automatic,Saudi,Full,2014,2.7,209,True
+Land Cruiser,Aseer,Toyota,Manual,Gulf Arabic,Semi Full,1982,4.6,340000,True
+Land Cruiser,Al-Baha,Toyota,Manual,Saudi,Semi Full,1985,2.0,30000,True
+Caprice,Riyadh,Chevrolet,Automatic,Other,Standard,1983,1.0,500000,True
+Land Cruiser,Hail,Toyota,Automatic,Gulf Arabic,Full,2013,4.6,250,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Semi Full,2014,1.5,350000,True
+Yaris,Hafar Al-Batin,Toyota,Automatic,Saudi,Semi Full,2017,1.5,80000,True
+Suburban,Jeddah,Chevrolet,Automatic,Other,Semi Full,2016,3.5,187000,True
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Standard,2012,3.6,280000,True
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2008,1.7,345500,True
+C300,Hafar Al-Batin,Chrysler,Automatic,Saudi,Full,2016,3.6,110000,True
+3,Dammam,Mazda,Automatic,Saudi,Standard,2019,1.6,55800,True
+Elantra,Riyadh,Hyundai,Manual,Saudi,Semi Full,2011,1.6,600000,True
+Tucson,Al-Medina,Hyundai,Automatic,Saudi,Full,2017,2.4,89000,True
+A8,Riyadh,Audi,Automatic,Saudi,Semi Full,2015,3.0,137000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2009,5.7,422000,True
+Camry,Tabouk,Toyota,Manual,Other,Semi Full,2004,2.5,500,True
+Land Cruiser Pickup,Qassim,Nissan,Manual,Unknown,Full,2016,4.8,42000,True
+Aveo,Riyadh,Chevrolet,Manual,Saudi,Standard,2011,1.6,266000,True
+Victoria,Qassim,Ford,Automatic,Saudi,Full,2011,4.6,280000,True
+Flex,Riyadh,Ford,Automatic,Saudi,Semi Full,2014,3.5,214000,True
+ES,Riyadh,Lexus,Automatic,Saudi,Semi Full,2009,3.5,417970,True
+Escalade,Riyadh,Cadillac,Automatic,Saudi,Full,2011,6.2,270373,True
+Senta fe,Qassim,Hyundai,Automatic,Other,Full,2015,2.0,96000,True
+H1,Riyadh,Hyundai,Manual,Other,Full,2007,2.4,81000,True
+Symbol,Riyadh,Renault,Automatic,Saudi,Full,2020,1.6,100,True
+Avanza,Dammam,Toyota,Automatic,Gulf Arabic,Standard,2016,1.6,168000,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Saudi,Semi Full,2012,4.0,280,True
+LS,Taef,Lexus,Automatic,Other,Semi Full,2005,4.6,240000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Full,2016,1.5,183000,True
+C5700,Hafar Al-Batin,GMC,Manual,Saudi,Standard,1977,1.5,4358765,True
+Grand Cherokee,Riyadh,Jeep,Automatic,Saudi,Full,2015,5.4,160000,True
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2018,3.6,65000,True
+SEL,Riyadh,Mercedes,Automatic,Other,Full,1991,5.5,160000,True
+Other,Jubail,Suzuki,Automatic,Saudi,Standard,2017,1.6,100,True
+Yukon,Al-Ahsa,GMC,Automatic,Other,Full,2003,1.6,300000,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Semi Full,2010,3.5,440000,True
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2007,4.7,269000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Unknown,Full,2014,4.6,191000,True
+BT-50,Al-Medina,Mazda,Manual,Saudi,Standard,2014,2.5,38000,True
+Yukon,Khobar,GMC,Automatic,Gulf Arabic,Full,2008,8.0,350000,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Saudi,Standard,2012,4.0,189,True
+Suburban,Aseer,GMC,Automatic,Other,Full,2011,5.3,174000,True
+Corolla,Al-Medina,Toyota,Automatic,Saudi,Standard,2018,1.6,93000,True
+Ranger,Al-Medina,Ford,Manual,Saudi,Standard,2010,2.6,300000,True
+Senta fe,Dammam,Hyundai,Automatic,Saudi,Semi Full,2016,3.3,228,True
+Rav4,Jeddah,Toyota,Automatic,Saudi,Full,2016,1.4,38000,True
+C300,Riyadh,Chrysler,Automatic,Other,Full,2017,5.7,62000,True
+Hilux,Abha,Toyota,Manual,Saudi,Standard,1998,4.0,250000,True
+Land Cruiser,Aseer,Toyota,Automatic,Gulf Arabic,Semi Full,2014,4.6,189821,True
+Ciocca,Riyadh,Toyota,Automatic,Saudi,Full,2009,5.7,210000,True
+Charger,Al-Medina,Dodge,Automatic,Other,Full,2020,3.6,27000,True
+Patrol,Tabouk,Nissan,Manual,Saudi,Full,1999,4.5,300,True
+Land Cruiser Pickup,Dammam,Toyota,Manual,Gulf Arabic,Full,2014,4.0,182000,True
+Kona,Riyadh,Hyundai,Automatic,Saudi,Full,2020,2.0,32000,True
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2014,1.6,19000,True
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2020,2.4,21000,True
+Hilux,Riyadh,Toyota,Automatic,Saudi,Full,2020,4.0,700,True
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,1.6,74000,True
+Land Cruiser Pickup,Jubail,Toyota,Manual,Gulf Arabic,Semi Full,2016,4.6,169000,True
+Suburban,Riyadh,GMC,Automatic,Other,Full,1998,5.3,395000,True
+Senta fe,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2021,3.3,2200,True
+Yaris,Yanbu,Toyota,Automatic,Other,Standard,2017,1.5,208000,True
+Kona,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,2.0,10000,True
+Marquis,Riyadh,Ford,Automatic,Saudi,Full,1997,4.6,40000,True
+Hilux,Dammam,Toyota,Manual,Saudi,Standard,2009,2.7,357172,True
+FX,Dammam,INFINITI,Automatic,Saudi,Full,2013,5.7,60000,True
+Azera,Jubail,Hyundai,Automatic,Saudi,Semi Full,2012,6.0,330,True
+D-MAX,Abha,Isuzu,Automatic,Saudi,Full,2020,3.0,19000,True
+Sierra,Al-Ahsa,GMC,Automatic,Saudi,Semi Full,2016,5.3,99000,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Full,2020,3.5,35000,True
+Suburban,Riyadh,Chevrolet,Automatic,Other,Full,1999,3.5,290000,True
+Expedition,Jazan,Ford,Automatic,Saudi,Semi Full,2013,5.4,200700,True
+Sunny,Riyadh,Nissan,Automatic,Other,Standard,2013,1.5,175097,True
+Dyna,Riyadh,Isuzu,Manual,Saudi,Standard,2021,3.0,100000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2014,2.7,298000,True
+Furniture,Makkah,Toyota,Automatic,Saudi,Standard,2015,4.5,10040,True
+Hiace,Aseer,Toyota,Manual,Saudi,Standard,2011,2.7,200,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2012,4.5,327000,True
+Lumina,Al-Ahsa,Chevrolet,Automatic,Saudi,Standard,2008,3.0,295000,True
+Sonata,Jazan,Hyundai,Automatic,Saudi,Full,2017,2.4,267,True
+CX9,Abha,Mazda,Automatic,Unknown,Full,2012,2.5,377836,True
+Sorento,Jubail,Kia,Automatic,Unknown,Semi Full,2015,3.3,133981,True
+Suburban,Abha,GMC,Automatic,Other,Standard,1993,5.9,442050,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Standard,2015,2.7,280,True
+Avalon,Jeddah,Toyota,Automatic,Saudi,Full,2006,3.5,400,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2016,2.4,88100,True
+Cruze,Jeddah,Chevrolet,Automatic,Saudi,Semi Full,2011,1.8,10000,True
+Prado,Riyadh,Toyota,Automatic,Saudi,Full,2016,4.0,191000,True
+Marquis,Qassim,Ford,Automatic,Saudi,Semi Full,2010,4.6,286,True
+SL,Riyadh,Mercedes,Automatic,Other,Full,1995,3.5,119,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Standard,2010,2.7,200000,True
+Camry,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2017,1.4,107,True
+Land Cruiser Pickup,Jeddah,Nissan,Automatic,Gulf Arabic,Full,2014,4.8,217000,True
+RX,Riyadh,Lexus,Automatic,Saudi,Full,2019,3.5,47000,True
+Datsun,Al-Baha,Nissan,Manual,Other,Full,2015,2.4,115000,True
+Cressida,Abha,Toyota,Manual,Saudi,Standard,1996,2.4,300000,True
+The 7,Jeddah,BMW,Automatic,Saudi,Semi Full,2012,2.0,100000,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,2007,1.0,3187031,True
+Cherokee,Jeddah,Jeep,Automatic,Saudi,Full,2015,3.2,20000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Unknown,Full,2018,4.6,24000,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2017,4.0,55000,True
+Victoria,Taef,Ford,Automatic,Saudi,Semi Full,2010,1.0,182,True
+Marquis,Al-Medina,Ford,Automatic,Saudi,Semi Full,2006,4.6,30000,True
+H2,Al-Medina,HAVAL,Automatic,Other,Semi Full,2021,1.4,6000,True
+A,Riyadh,Mercedes,Manual,Saudi,Full,2020,2.0,5000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2009,4.7,760,True
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2017,4.6,109000,True
+MKZ,Riyadh,Lincoln,Automatic,Gulf Arabic,Full,2018,2.0,64000,True
+Hilux,Makkah,Toyota,Manual,Saudi,Full,2015,1.7,57000,True
+Hilux,Al-Baha,Toyota,Automatic,Saudi,Full,2020,2.7,7833,True
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,3.6,69000,True
+Hilux,Al-Jouf,Toyota,Manual,Saudi,Full,2005,2.7,270000,True
+CX9,Makkah,Mazda,Automatic,Saudi,Full,2014,3.7,131000,True
+H1,Qassim,Hyundai,Automatic,Unknown,Semi Full,2019,2.4,20000,True
+Camry,Jeddah,Toyota,Manual,Saudi,Standard,2004,2.4,570000,True
+Yukon,Aseer,GMC,Automatic,Saudi,Semi Full,2012,5.3,60000,True
+Panamera,Riyadh,Porsche,Automatic,Gulf Arabic,Full,2014,3.0,53000,True
+Patrol,Makkah,Nissan,Manual,Saudi,Semi Full,1998,4.0,143,True
+Rush,Arar,Toyota,Automatic,Other,Standard,2021,1.5,600,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Semi Full,2009,2.7,300,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2018,5.3,37000,True
+Elantra,Riyadh,Hyundai,Automatic,Other,Standard,2017,2.0,100000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.6,3226,True
+D-MAX,Dammam,Isuzu,Manual,Saudi,Semi Full,2007,2.5,452000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2005,5.3,306270,True
+Land Cruiser,Tabouk,Toyota,Automatic,Gulf Arabic,Full,2014,4.6,194,True
+E,Al-Ahsa,Mercedes,Automatic,Gulf Arabic,Full,2014,2.0,135000,True
+Land Cruiser,Jazan,Toyota,Automatic,Other,Full,2004,4.6,38000,True
+Sunny,Riyadh,Nissan,Automatic,Other,Standard,2014,1.5,156,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2018,2.5,71000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Semi Full,2019,2.5,150000,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Full,2008,3.5,315000,True
+VTC,Qurayyat,Nissan,Manual,Gulf Arabic,Standard,2016,4.8,55000,True
+CS95,Riyadh,Changan,Automatic,Saudi,Full,2021,2.0,33000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2012,5.3,214,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Semi Full,2017,2.5,170,True
+Optima,Riyadh,Kia,Automatic,Unknown,Semi Full,2014,2.4,170000,True
+Prado,Jeddah,Toyota,Automatic,Saudi,Semi Full,2016,2.7,158000,True
+Cayenne Turbo S,Jeddah,Porsche,Automatic,Saudi,Full,2009,4.8,127000,True
+Land Cruiser,Qurayyat,Toyota,Automatic,Saudi,Full,2015,8.0,200000,True
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2014,9.0,360,True
+Land Cruiser,Dammam,Toyota,Manual,Saudi,Semi Full,2005,4.6,300,True
+Prado,Jeddah,Toyota,Automatic,Saudi,Semi Full,2017,4.0,44000,True
+Hilux,Sakaka,Toyota,Manual,Gulf Arabic,Full,2016,2.7,217000,True
+Malibu,Jeddah,Chevrolet,Manual,Gulf Arabic,Semi Full,2013,6.0,200000,True
+Avalon,Al-Baha,Toyota,Automatic,Saudi,Full,2013,4.1,360,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2020,5.7,24000,True
+Carnival,Dammam,Kia,Automatic,Saudi,Semi Full,2013,3.3,169000,True
+VTC,Al-Namas,Nissan,Automatic,Saudi,Full,1999,4.5,297000,True
+Other,Taef,Other,Automatic,Saudi,Full,2004,2.4,6000,True
+D-MAX,Aseer,Isuzu,Automatic,Saudi,Full,2020,3.0,2700,True
+Optima,Riyadh,Kia,Automatic,Saudi,Semi Full,2017,2.4,210,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,3.5,225000,True
+Sonata,Al-Medina,Hyundai,Automatic,Unknown,Semi Full,2020,2.4,2396,True
+Optra,Hafar Al-Batin,Chevrolet,Manual,Other,Semi Full,2005,1.6,300,True
+Ciocca,Riyadh,Toyota,Automatic,Saudi,Full,2009,5.7,251000,True
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2017,2.5,52000,True
+Sunny,Riyadh,Nissan,Automatic,Gulf Arabic,Standard,2002,1.6,340000,True
+Furniture,Makkah,Toyota,Automatic,Saudi,Semi Full,2020,2.7,82000,True
+Sierra,Dammam,GMC,Automatic,Saudi,Standard,2011,5.3,400,True
+H1,Sakaka,Hyundai,Automatic,Saudi,Standard,2013,2.5,100000,True
+Flex,Al-Ahsa,Ford,Automatic,Saudi,Semi Full,2016,3.5,27800,True
+Charger,Riyadh,Dodge,Automatic,Gulf Arabic,Standard,2006,3.6,300,True
+Prado,Jeddah,Toyota,Automatic,Saudi,Semi Full,2009,4.0,194000,True
+Suburban,Hail,Chevrolet,Automatic,Other,Semi Full,1997,5.6,364627,True
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Semi Full,2014,3.5,62000,True
+Camry,Riyadh,Toyota,Automatic,Other,Standard,2012,2.5,20455,True
+Sierra,Riyadh,GMC,Automatic,Saudi,Full,2015,6.2,137000,True
+Sierra,Najran,GMC,Automatic,Saudi,Full,2014,5.3,200005,True
+Hilux,Dammam,Toyota,Manual,Gulf Arabic,Full,2015,2.7,100000,True
+Marquis,Dammam,Ford,Automatic,Gulf Arabic,Full,2011,4.6,360,True
+Prado,Qassim,Toyota,Automatic,Saudi,Full,2018,1.5,130,True
+C,Riyadh,Mercedes,Automatic,Saudi,Semi Full,2018,2.0,95000,True
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Full,2017,2.0,77000,True
+Corolla,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2015,1.6,370,True
+H1,Riyadh,Hyundai,Automatic,Saudi,Full,2016,2.5,140,True
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Standard,2016,5.3,196000,True
+Rio,Hail,Kia,Automatic,Other,Standard,2011,1.6,167000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,146000,True
+Carnival,Al-Ahsa,Kia,Automatic,Gulf Arabic,Semi Full,2016,2.5,125000,True
+Previa,Riyadh,Toyota,Automatic,Other,Standard,2007,2.4,458,True
+Carnival,Dammam,Kia,Automatic,Saudi,Full,2017,3.3,82217,True
+Land Cruiser,Arar,Toyota,Automatic,Gulf Arabic,Full,2021,4.6,13000,True
+Sunny,Riyadh,Nissan,Manual,Saudi,Standard,1999,2.8,500000,True
+3,Qassim,Mazda,Automatic,Gulf Arabic,Standard,2017,1.5,149000,True
+Marquis,Al-Medina,Ford,Automatic,Other,Semi Full,2010,4.6,360000,True
+Edge,Riyadh,Ford,Automatic,Saudi,Full,2014,3.5,204,True
+LS,Qassim,Lexus,Automatic,Saudi,Full,2008,8.0,300,True
+Cherokee,Khobar,Jeep,Automatic,Saudi,Semi Full,2019,2.4,22000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2014,4.6,164,True
+Tahoe,Dammam,Chevrolet,Automatic,Other,Standard,2013,5.3,350,True
+Sunny,Dammam,Nissan,Automatic,Saudi,Standard,2019,1.5,73700,True
+Suburban,Riyadh,Chevrolet,Automatic,Other,Full,2015,5.3,189000,True
+Pathfinder,Arar,Nissan,Automatic,Saudi,Semi Full,2016,3.5,100,True
+Jetta,Jeddah,Volkswagen,Automatic,Saudi,Full,2015,2.0,295000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2021,5.3,2500,True
+CX9,Riyadh,Mazda,Automatic,Saudi,Full,2016,2.5,124000,True
+Datsun,Abha,Nissan,Manual,Saudi,Full,2007,2.4,214,True
+Pajero,Riyadh,Mitsubishi,Automatic,Saudi,Semi Full,2016,3.5,157,True
+Thunderbird,Riyadh,Ford,Automatic,Other,Full,1965,8.0,25000,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2012,4.0,370000,True
+Rio,Riyadh,Kia,Automatic,Saudi,Standard,2016,1.4,125000,True
+Land Cruiser,Qassim,Toyota,Automatic,Gulf Arabic,Standard,2016,4.6,192,True
+Land Cruiser,Jeddah,Toyota,Automatic,Saudi,Full,2006,4.6,400,True
+V7,Riyadh,Changan,Automatic,Saudi,Standard,2018,1.6,169000,True
+LS,Tabouk,Lexus,Automatic,Saudi,Full,2015,4.6,110000,True
+3,Qassim,Mazda,Automatic,Gulf Arabic,Standard,2017,1.5,108098,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Other,Standard,2016,4.0,280000,True
+Copper,Dammam,MINI,Manual,Saudi,Semi Full,2015,2.0,237000,True
+Sierra,Riyadh,GMC,Automatic,Saudi,Full,2015,5.3,222000,True
+Camry,Dammam,Toyota,Automatic,Saudi,Semi Full,2016,2.4,186,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2018,4.0,223000,True
+Aurion,Riyadh,Toyota,Automatic,Saudi,Semi Full,2013,3.5,200,True
+Prado,Dammam,Toyota,Automatic,Saudi,Semi Full,2012,2.7,432345,True
+Datsun,Jeddah,Nissan,Manual,Saudi,Standard,2003,2.4,400000,True
+Fluence,Dammam,Renault,Automatic,Saudi,Standard,2016,1.6,66000,True
+C,Riyadh,Mercedes,Automatic,Other,Full,2017,7.0,40000,True
+Sunny,Al-Medina,Nissan,Manual,Saudi,Standard,2006,1.4,256000,True
+Land Cruiser,Tabouk,Toyota,Automatic,Saudi,Full,2014,4.6,200,True
+Marquis,Jeddah,Ford,Automatic,Saudi,Semi Full,2007,4.6,300000,True
+Navara,Riyadh,Nissan,Manual,Saudi,Standard,2015,2.5,185000,True
+Hiace,Dammam,Toyota,Manual,Saudi,Standard,2016,2.7,128332,True
+Tahoe,Al-Ahsa,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,300000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2014,5.3,91000,True
+Grand Marquis,Taef,Mercury,Automatic,Other,Full,2008,4.6,350,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2011,4.6,309000,True
+Victoria,Arar,Ford,Automatic,Saudi,Full,2002,4.6,300000,True
+Hilux,Qassim,Toyota,Manual,Saudi,Standard,2016,2.7,37000,True
+Hilux,Aseer,Toyota,Manual,Saudi,Full,2016,1.1,42000,True
+S,Al-Medina,Mercedes,Automatic,Other,Full,2006,3.5,300000,True
+Sentra,Riyadh,Nissan,Automatic,Saudi,Standard,2020,1.4,13000,True
+Edge,Makkah,Ford,Automatic,Other,Semi Full,2008,3.5,415000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2010,5.4,274000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,5.4,183000,True
+Camry,Riyadh,Toyota,Automatic,Unknown,Standard,2016,2.5,263000,True
+Corolla,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2019,1.6,38000,True
+Land Cruiser,Makkah,Toyota,Automatic,Saudi,Full,2016,4.6,28000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2016,2.4,79000,True
+Silverado,Riyadh,Chevrolet,Automatic,Saudi,Standard,2012,5.3,98000,True
+Acadia,Dammam,GMC,Automatic,Saudi,Full,2009,3.6,272000,True
+EC7,Tabouk,Geely,Manual,Saudi,Standard,2014,1.8,170000,True
+Innova,Riyadh,Toyota,Manual,Saudi,Standard,2010,2.7,83000,True
+Edge,Riyadh,Ford,Automatic,Saudi,Full,2016,3.5,97000,True
+ES,Riyadh,Lexus,Automatic,Saudi,Semi Full,2019,4.0,90000,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Standard,2014,2.5,295,True
+Rush,Al-Medina,Toyota,Automatic,Gulf Arabic,Full,2020,1.5,4050,True
+Charger,Riyadh,Dodge,Automatic,Saudi,Standard,2016,3.6,172000,True
+SEL,Al-Ahsa,Mercedes,Automatic,Other,Full,1991,3.0,213,True
+Avalon,Hail,Toyota,Automatic,Saudi,Semi Full,2013,6.0,255,True
+Land Cruiser,Hail,Toyota,Manual,Saudi,Full,2008,4.6,200000,True
+Hilux,Riyadh,Toyota,Manual,Other,Semi Full,2009,2.7,230,True
+Capture,Riyadh,Renault,Automatic,Gulf Arabic,Semi Full,2016,1.6,85000,True
+Navara,Abha,Nissan,Manual,Saudi,Standard,2013,2.5,300000,True
+Carnival,Dammam,Kia,Automatic,Saudi,Standard,2016,2.0,144000,True
+Copper,Dammam,MINI,Manual,Saudi,Semi Full,2015,2.0,235000,True
+Caprice,Hafar Al-Batin,Chevrolet,Automatic,Saudi,Semi Full,2007,6.0,14000,True
+Yukon,Riyadh,GMC,Automatic,Unknown,Full,2007,5.3,300000,True
+Sierra,Tabouk,GMC,Manual,Saudi,Full,2002,1.8,200000,True
+Camry,Aseer,Toyota,Automatic,Saudi,Standard,2017,2.5,149000,True
+Hilux,Hafar Al-Batin,Toyota,Manual,Saudi,Full,2015,2.7,196000,True
+Ciocca,Jeddah,Toyota,Automatic,Saudi,Semi Full,2009,5.7,300000,True
+Taurus,Riyadh,Ford,Automatic,Unknown,Standard,2014,3.5,93000,True
+Furniture,Jeddah,Toyota,Automatic,Saudi,Full,2017,2.7,24083,True
+Kaptiva,Jeddah,Chevrolet,Automatic,Gulf Arabic,Standard,2008,2.0,300000,True
+LS,Abha,Lexus,Automatic,Other,Full,1998,4.6,400,True
+Patrol,Qassim,Nissan,Automatic,Saudi,Semi Full,2013,5.6,560000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2013,4.6,359008,True
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2015,1.6,170000,True
+Cadenza,Tabouk,Kia,Automatic,Other,Standard,2015,3.3,299,True
+Hilux,Wadi Dawasir,Toyota,Manual,Saudi,Full,2020,2.4,75000,True
+Land Cruiser,Arar,Toyota,Automatic,Saudi,Full,2017,5.7,106,True
+Pathfinder,Jeddah,Nissan,Automatic,Saudi,Semi Full,2014,3.5,285500,True
+Land Cruiser Pickup,Dammam,Toyota,Manual,Gulf Arabic,Full,2016,4.0,315000,True
+Malibu,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2019,1.5,50000,True
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Full,2012,4.0,376528,True
+Senta fe,Aseer,Hyundai,Automatic,Other,Semi Full,2014,6.1,300000,True
+CLS,Dammam,Mercedes,Automatic,Saudi,Semi Full,2019,3.5,76000,True
+F150,Riyadh,Ford,Automatic,Saudi,Semi Full,2017,5.0,108000,True
+H1,Jeddah,Hyundai,Automatic,Saudi,Standard,2018,2.4,34000,True
+Charger,Dammam,Dodge,Automatic,Saudi,Full,2012,5.7,220000,True
+Innova,Jeddah,Toyota,Automatic,Saudi,Full,2017,2.7,58000,True
+Edge,Riyadh,Ford,Automatic,Gulf Arabic,Full,2013,3.7,341000,True
+Innova,Makkah,Toyota,Automatic,Saudi,Full,2017,2.7,180000,True
+Copper,Riyadh,MINI,Automatic,Saudi,Full,2018,2.0,27000,True
+Cherokee,Jeddah,Jeep,Manual,Saudi,Full,1999,6.0,366798,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Full,2018,4.0,109000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2014,2.5,234000,True
+Datsun,Qassim,Nissan,Manual,Saudi,Standard,1987,2.4,80000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2014,8.0,135000,True
+Land Cruiser,Taef,Toyota,Automatic,Saudi,Full,2018,4.6,92000,True
+Carnival,Riyadh,Kia,Automatic,Saudi,Semi Full,2011,3.3,232000,True
+Camry,Aseer,Toyota,Manual,Saudi,Semi Full,2010,1.6,300,True
+Pathfinder,Al-Medina,Nissan,Automatic,Saudi,Semi Full,2016,3.5,155000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2008,3.5,375000,True
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2017,4.0,243,True
+Prado,Al-Medina,Toyota,Automatic,Saudi,Full,2010,4.0,260000,True
+LX,Hafar Al-Batin,Lexus,Automatic,Saudi,Full,2015,5.7,104,True
+Patrol,Riyadh,Nissan,Automatic,Gulf Arabic,Full,2020,4.0,40000,True
+Accord,Jeddah,Honda,Automatic,Saudi,Semi Full,2015,2.5,620,True
+Victoria,Tabouk,Ford,Automatic,Saudi,Semi Full,2006,4.6,365000,True
+Senta fe,Al-Medina,Hyundai,Automatic,Saudi,Full,2016,3.3,125000,True
+Optima,Al-Ahsa,Kia,Automatic,Saudi,Semi Full,2013,4.0,146980,True
+Yukon,Jeddah,GMC,Automatic,Saudi,Full,2008,6.2,300,True
+Furniture,Riyadh,Toyota,Automatic,Unknown,Semi Full,2016,2.7,201000,True
+Hilux,Aseer,Toyota,Manual,Saudi,Full,2012,2.7,395000,True
+IS,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2016,3.5,100000,True
+Other,Riyadh,Other,Manual,Saudi,Standard,2006,6.5,81250,True
+Tucson,Riyadh,Hyundai,Automatic,Gulf Arabic,Semi Full,2014,2.0,126000,True
+Malibu,Aseer,Chevrolet,Automatic,Saudi,Standard,2021,1.5,10800,True
+Cerato,Jubail,Kia,Automatic,Gulf Arabic,Semi Full,2019,1.6,105280,True
+Camry,Riyadh,Toyota,Automatic,Gulf Arabic,Standard,2017,2.5,82000,True
+Traverse,Al-Medina,Chevrolet,Automatic,Saudi,Semi Full,2012,3.1,132,True
+Furniture,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2013,2.7,32000,True
+VTC,Qassim,Nissan,Automatic,Gulf Arabic,Semi Full,2002,4.8,650000,True
+S,Dammam,Mercedes,Automatic,Saudi,Full,2006,6.3,133641,True
+Camry,Jeddah,Toyota,Automatic,Other,Semi Full,2002,2.4,375050,True
+Marquis,Al-Ahsa,Ford,Automatic,Other,Full,2008,4.6,50000,True
+Tucson,Al-Ahsa,Hyundai,Automatic,Saudi,Semi Full,2019,2.0,77000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2020,2.7,89000,True
+Sonata,Al-Medina,Hyundai,Automatic,Saudi,Semi Full,2014,1.6,1500000,True
+Corolla,Riyadh,Toyota,Automatic,Saudi,Semi Full,2020,1.6,19000,True
+Pajero,Riyadh,Mitsubishi,Automatic,Gulf Arabic,Full,2016,3.8,178000,True
+Durango,Riyadh,Dodge,Automatic,Saudi,Full,2017,5.7,80000,True
+Terrain,Khobar,GMC,Automatic,Saudi,Semi Full,2013,3.6,220,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2012,5.3,231000,True
+FJ,Makkah,Toyota,Automatic,Saudi,Full,2017,4.0,144000,True
+Edge,Riyadh,Ford,Automatic,Saudi,Full,2012,1.0,290,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Semi Full,2016,2.5,174000,True
+C,Riyadh,Mercedes,Automatic,Saudi,Full,2019,2.0,28000,True
+CT-S,Najran,Cadillac,Automatic,Saudi,Full,2009,3.6,222,True
+Cadenza,Al-Medina,Kia,Automatic,Other,Semi Full,2018,3.3,148,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2017,2.4,128336,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Full,2020,2.7,19200,True
+Land Cruiser,Riyadh,Toyota,Automatic,Unknown,Full,2013,4.6,200000,True
+D-MAX,Riyadh,Isuzu,Manual,Saudi,Standard,2008,2.5,570713,True
+Corolla,Qassim,Toyota,Automatic,Other,Semi Full,2013,1.6,450000,True
+Expedition,Riyadh,Ford,Automatic,Unknown,Semi Full,2005,5.4,210000,True
+Camry,Dammam,Toyota,Automatic,Other,Full,1997,2.5,400000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2016,4.6,116000,True
+A8,Riyadh,Audi,Automatic,Gulf Arabic,Semi Full,2016,3.0,125000,True
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2018,2.5,11000,True
+Land Cruiser,Abha,Toyota,Manual,Saudi,Semi Full,1994,9.0,402000,True
+Grand Cherokee,Makkah,Jeep,Automatic,Saudi,Full,2015,6.4,119000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2015,4.6,255000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2013,5.4,93000,True
+Expedition,Riyadh,Ford,Automatic,Gulf Arabic,Semi Full,2013,8.0,186000,True
+ES,Jeddah,Lexus,Automatic,Other,Full,2017,3.5,61000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Full,2013,4.0,172,True
+Hilux,Dammam,Toyota,Manual,Gulf Arabic,Semi Full,2016,1.4,261000,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,1988,5.3,150000,True
+Azkarra,Qassim,Geely,Automatic,Saudi,Full,2021,1.5,783,True
+XF,Dammam,Jaguar,Automatic,Saudi,Semi Full,2011,3.5,161000,True
+CLA,Yanbu,Mercedes,Automatic,Other,Semi Full,2015,2.0,133,True
+FJ,Dammam,Toyota,Automatic,Saudi,Full,2010,4.0,295,True
+Sunny,Riyadh,Nissan,Automatic,Saudi,Semi Full,2019,1.5,43210,True
+Patrol,Yanbu,Nissan,Manual,Saudi,Full,1989,4.0,300000,True
+Patrol,Hail,Nissan,Manual,Saudi,Standard,2016,1.2,250000,True
+Pathfinder,Dammam,Nissan,Manual,Saudi,Full,2002,3.5,300000,True
+Sierra,Riyadh,GMC,Automatic,Saudi,Full,2010,5.3,114000,True
+Patrol,Dammam,Nissan,Automatic,Saudi,Full,2015,4.8,287,True
+Attrage,Sakaka,Mitsubishi,Automatic,Saudi,Standard,2020,1.2,45000,True
+Senta fe,Khobar,Hyundai,Automatic,Saudi,Full,2014,3.3,200203,True
+Armada,Khobar,Nissan,Automatic,Saudi,Semi Full,2015,1.6,190000,True
+Yaris,Jeddah,Toyota,Automatic,Gulf Arabic,Standard,2018,1.5,59600,True
+Corolla,Makkah,Toyota,Automatic,Saudi,Standard,2012,1.6,356500,True
+Yukon,Taef,GMC,Automatic,Saudi,Full,2006,5.3,109000,True
+Prado,Jubail,Toyota,Manual,Saudi,Semi Full,2011,2.7,165000,True
+Camry,Riyadh,Toyota,Manual,Saudi,Standard,2005,3.1,500000,True
+Accord,Al-Ahsa,Honda,Automatic,Gulf Arabic,Standard,2008,2.4,100,True
+Wingle,Qassim,Great Wall,Manual,Saudi,Full,2021,2.0,18000,True
+Carnival,Aseer,Kia,Automatic,Saudi,Standard,2015,3.5,144653,True
+Fusion,Aseer,Ford,Automatic,Saudi,Semi Full,2015,2.5,63000,True
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,87000,True
+Dyna,Jeddah,Isuzu,Manual,Saudi,Standard,2016,3.0,400000,True
+Rio,Riyadh,Kia,Automatic,Saudi,Standard,2016,1.4,112000,True
+Suburban,Taef,Chevrolet,Automatic,Other,Full,1995,5.3,200,True
+Patrol,Makkah,Nissan,Automatic,Saudi,Full,2006,1.0,200000,True
+Odyssey,Jeddah,Honda,Automatic,Saudi,Standard,2016,3.5,84000,True
+Yukon,Hail,GMC,Automatic,Saudi,Full,2011,5.3,333000,True
+Flex,Al-Jouf,Ford,Automatic,Saudi,Full,2015,6.0,134800,True
+F150,Khobar,Ford,Automatic,Saudi,Semi Full,2014,5.0,169000,True
+Armada,Riyadh,Nissan,Automatic,Saudi,Full,2014,5.6,284686,True
+6,Dammam,Mazda,Automatic,Other,Semi Full,2016,2.5,198,True
+Datsun,Al-Medina,Nissan,Manual,Unknown,Full,2016,2.4,193000,True
+Lancer,Hail,Mitsubishi,Automatic,Saudi,Standard,2016,1.6,120000,True
+Tahoe,Aseer,Chevrolet,Automatic,Saudi,Semi Full,2012,1.0,172000,True
+A8,Riyadh,Audi,Automatic,Saudi,Full,2015,5.0,56000,True
+Yukon,Dammam,GMC,Automatic,Saudi,Semi Full,2002,5.3,297000,True
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Semi Full,2017,3.5,147000,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Saudi,Semi Full,2015,4.0,176000,True
+POS24,Aseer,Mercedes,Manual,Other,Full,1983,8.0,9999999,True
+Cadenza,Riyadh,Kia,Automatic,Saudi,Full,2017,3.5,60314,True
+Charger,Al-Medina,Dodge,Automatic,Saudi,Full,2018,5.7,15000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,1.3,132560,True
+Silverado,Al-Ahsa,Chevrolet,Automatic,Saudi,Full,2013,8.0,197000,True
+Prado,Dammam,Toyota,Automatic,Saudi,Semi Full,2020,4.8,17000,True
+Passat,Riyadh,Volkswagen,Automatic,Saudi,Full,2014,2.5,239,True
+Kaptiva,Al-Ahsa,Chevrolet,Automatic,Saudi,Standard,2021,1.5,18750,True
+Sonata,Al-Medina,Hyundai,Automatic,Saudi,Standard,2019,2.4,87000,True
+Sonata,Dammam,Hyundai,Automatic,Saudi,Standard,2018,2.4,10000,True
+Yukon,Jeddah,GMC,Automatic,Other,Full,2016,5.3,250000,True
+Spark,Riyadh,Chevrolet,Automatic,Other,Standard,2017,1.4,88739,True
+Fusion,Riyadh,Ford,Automatic,Saudi,Semi Full,2014,2.5,200000,True
+The 7,Jeddah,BMW,Automatic,Gulf Arabic,Standard,2014,2.0,182,True
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Standard,2016,5.3,222000,True
+S,Al-Medina,Mercedes,Automatic,Saudi,Full,2007,3.0,200000,True
+CS95,Hail,Changan,Automatic,Saudi,Full,2021,2.0,31000,True
+Sierra,Dammam,GMC,Automatic,Saudi,Standard,2015,5.3,137000,True
+Charger,Jeddah,Dodge,Automatic,Saudi,Semi Full,2020,3.6,38000,True
+Sentra,Riyadh,Nissan,Manual,Saudi,Standard,2019,1.6,90000,True
+G,Jeddah,INFINITI,Automatic,Gulf Arabic,Full,2007,6.0,210000,True
+Elantra,Dammam,Hyundai,Automatic,Saudi,Standard,2017,1.6,125000,True
+Tahoe,Al-Jouf,Chevrolet,Automatic,Saudi,Semi Full,2012,5.3,4691232,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Saudi,Semi Full,2011,4.0,300,True
+EC7,Riyadh,Geely,Manual,Saudi,Full,2014,1.4,190000,True
+Land Cruiser Pickup,Al-Medina,Toyota,Manual,Saudi,Semi Full,2016,4.8,198000,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Standard,2009,3.5,215000,True
+Sonata,Qassim,Hyundai,Automatic,Saudi,Standard,2018,2.2,184,True
+Land Cruiser,Al-Medina,Toyota,Automatic,Gulf Arabic,Semi Full,2013,4.6,260000,True
+Sonata,Al-Ahsa,Hyundai,Automatic,Saudi,Full,2015,2.0,300,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,34000,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,2010,6.0,186000,True
+RX5,Riyadh,MG,Automatic,Saudi,Full,2019,2.0,49000,True
+Hilux,Khobar,Toyota,Manual,Gulf Arabic,Full,2013,2.7,152000,True
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2017,2.5,111000,True
+The 7,Riyadh,BMW,Automatic,Gulf Arabic,Full,2020,2.0,22000,True
+Elantra,Aseer,Hyundai,Automatic,Saudi,Semi Full,2016,2.0,180700,True
+Prado,Dammam,Toyota,Automatic,Saudi,Semi Full,2018,2.7,243300,True
+Navara,Abha,Nissan,Manual,Other,Semi Full,2013,2.5,300,True
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2012,5.3,231000,True
+Accord,Jeddah,Honda,Automatic,Saudi,Full,2019,2.5,19000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2021,5.7,3500,True
+Prado,Qassim,Toyota,Automatic,Saudi,Semi Full,2014,1.8,287,True
+Victoria,Besha,Ford,Automatic,Saudi,Full,2004,4.6,260,True
+New Yorker,Riyadh,Chrysler,Automatic,Other,Full,1978,6.6,52000,True
+Azera,Dammam,Hyundai,Automatic,Saudi,Standard,2018,3.0,86000,True
+Taurus,Taef,Ford,Automatic,Saudi,Semi Full,2014,6.0,265,True
+Explorer,Aseer,Ford,Automatic,Saudi,Full,2007,4.5,300000,True
+K5,Jazan,Kia,Automatic,Saudi,Semi Full,2021,2.5,7000,True
+LX,Taef,Lexus,Automatic,Other,Full,2014,5.7,305,True
+Charger,Qassim,Dodge,Automatic,Saudi,Full,2018,3.2,99000,True
+Hilux,Sabya,Toyota,Manual,Saudi,Full,2002,2.7,100,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Semi Full,2017,4.0,100,True
+Yukon,Al-Ahsa,GMC,Automatic,Saudi,Full,2003,5.3,10000,True
+3,Qassim,Mazda,Automatic,Gulf Arabic,Standard,2016,1.5,287000,True
+Yukon,Al-Medina,GMC,Automatic,Saudi,Semi Full,2011,5.3,366,True
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2019,1.6,45000,True
+ES,Riyadh,Lexus,Automatic,Saudi,Semi Full,2021,3.5,6174,True
+Charger,Qassim,Dodge,Automatic,Saudi,Semi Full,2017,3.6,88000,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Standard,1997,2.7,1000000,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.0,194000,True
+X,Riyadh,BMW,Automatic,Saudi,Full,2018,2.0,47000,True
+Altima,Al-Ahsa,Nissan,Automatic,Saudi,Full,2010,2.5,236660,True
+Land Cruiser,Aseer,Toyota,Manual,Saudi,Semi Full,1997,4.6,400000,True
+Land Cruiser Pickup,Hail,Toyota,Manual,Saudi,Full,2001,4.5,420,True
+Malibu,Riyadh,Chevrolet,Automatic,Saudi,Full,2013,3.5,185000,True
+Edge,Dammam,Ford,Automatic,Saudi,Full,2007,3.5,270000,True
+ES,Jeddah,Lexus,Automatic,Saudi,Full,2013,3.5,326000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2016,3.5,161000,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Full,2019,2.7,83000,True
+S,Riyadh,Mercedes,Automatic,Saudi,Full,2006,3.5,290000,True
+ES,Besha,Lexus,Automatic,Other,Full,2013,3.5,180,True
+Sonata,Dammam,Hyundai,Automatic,Saudi,Semi Full,2013,2.4,440000,True
+Explorer,Taef,Ford,Automatic,Saudi,Semi Full,2010,4.0,246000,True
+Furniture,Al-Medina,Toyota,Automatic,Saudi,Standard,2015,2.7,221000,True
+Patrol,Dammam,Nissan,Automatic,Saudi,Semi Full,2015,4.0,175000,True
+CX5,Riyadh,Mazda,Automatic,Saudi,Full,2020,2.5,35000,True
+Altima,Jeddah,Nissan,Automatic,Saudi,Semi Full,2020,2.5,18000,True
+QX,Khobar,INFINITI,Automatic,Saudi,Full,2014,3.7,160000,True
+Ciocca,Dammam,Toyota,Automatic,Saudi,Semi Full,2013,5.7,210000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,94000,True
+Van,Riyadh,Ford,Automatic,Saudi,Standard,2013,3.6,33000,True
+Seven,Jeddah,Changan,Automatic,Saudi,Standard,2022,1.1,2500,True
+Camry,Riyadh,Toyota,Automatic,Unknown,Standard,2016,2.5,267000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Standard,2003,2.7,100,True
+Other,Al-Ahsa,Suzuki,Manual,Other,Full,2014,1.0,25000,True
+LS,Jeddah,Lexus,Automatic,Saudi,Full,2014,4.6,22400,True
+Accord,Jeddah,Honda,Automatic,Saudi,Semi Full,2002,1.5,500000,True
+Senta fe,Jubail,Hyundai,Automatic,Gulf Arabic,Semi Full,2017,3.4,120000,True
+FJ,Makkah,Toyota,Automatic,Other,Full,2012,4.0,69000,True
+Land Cruiser,Jeddah,Toyota,Automatic,Gulf Arabic,Full,2020,4.6,50000,True
+Mohave,Jazan,Kia,Automatic,Saudi,Full,2014,3.6,284,True
+Accord,Riyadh,Honda,Automatic,Saudi,Semi Full,2017,2.4,117059,True
+Marquis,Hafar Al-Batin,Ford,Automatic,Other,Full,2006,4.6,200000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2006,4.6,360000,True
+Senta fe,Qassim,Hyundai,Automatic,Gulf Arabic,Semi Full,2016,3.5,97000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2012,5.3,309,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2013,4.6,199,True
+Camry,Makkah,Toyota,Automatic,Saudi,Full,2015,2.5,112506,True
+S,Riyadh,Mercedes,Automatic,Unknown,Full,2006,3.0,347000,True
+Patrol,Qassim,Nissan,Automatic,Saudi,Full,2016,4.0,167,True
+Yukon,Arar,GMC,Automatic,Saudi,Standard,2012,5.3,187800,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Standard,2020,4.0,25000,True
+The 7,Qassim,BMW,Automatic,Saudi,Semi Full,2015,1.6,122,True
+LS,Dammam,Lexus,Automatic,Saudi,Full,2003,4.6,200000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Semi Full,2013,1.6,171549,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Full,2021,4.0,200,True
+Land Cruiser,Al-Ahsa,Toyota,Automatic,Gulf Arabic,Full,2017,4.6,90000,True
+ES,Jeddah,Lexus,Automatic,Other,Full,2016,3.5,48000,True
+CLA,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2020,2.0,2000,True
+Land Cruiser,Tabouk,Toyota,Automatic,Saudi,Full,2016,1.2,17000,True
+FJ,Najran,Toyota,Automatic,Other,Full,2015,4.0,320,True
+The 7,Jeddah,BMW,Automatic,Saudi,Full,2004,2.0,240,True
+Hilux,Riyadh,Toyota,Manual,Unknown,Full,2014,2.7,270000,True
+Patrol,Riyadh,Nissan,Manual,Saudi,Standard,2003,4.0,228000,True
+Charger,Riyadh,Dodge,Automatic,Other,Standard,2014,3.6,240000,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Standard,2020,4.7,25000,True
+Suburban,Jazan,Chevrolet,Automatic,Other,Full,2008,5.3,300000,True
+Yukon,Dammam,GMC,Automatic,Saudi,Semi Full,2005,5.3,450000,True
+Azera,Riyadh,Hyundai,Manual,Saudi,Semi Full,2012,3.0,290000,True
+Expedition,Najran,Ford,Automatic,Saudi,Semi Full,2018,5.4,91000,True
+Range Rover,Dammam,Land Rover,Automatic,Saudi,Full,2019,4.0,35000,True
+Datsun,Aseer,Nissan,Manual,Saudi,Standard,1986,2.4,463,True
+Defender,Dammam,Land Rover,Manual,Gulf Arabic,Semi Full,2013,4.0,28000,True
+Carnival,Riyadh,Kia,Automatic,Saudi,Full,2008,4.0,270000,True
+Taurus,Al-Medina,Ford,Automatic,Saudi,Semi Full,2016,3.5,233,True
+Land Cruiser,Qassim,Toyota,Automatic,Gulf Arabic,Semi Full,1999,4.5,640000,True
+Taurus,Riyadh,Ford,Automatic,Unknown,Standard,2015,3.5,175000,True
+Tahoe,Makkah,Chevrolet,Automatic,Saudi,Semi Full,2007,4.7,176000,True
+H100,Qassim,Hyundai,Automatic,Other,Full,2016,4.0,145000,True
+X,Dammam,BMW,Automatic,Saudi,Full,2011,5.0,205000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2014,5.4,246000,True
+Suburban,Aseer,GMC,Automatic,Other,Standard,1994,5.3,3700562,True
+Charger,Najran,Dodge,Automatic,Saudi,Full,2012,3.0,147000,True
+S,Riyadh,Mercedes,Automatic,Saudi,Full,2016,4.7,95165,True
+Rush,Al-Medina,Toyota,Automatic,Saudi,Full,2020,1.5,12000,True
+Echo Sport,Dammam,Ford,Automatic,Other,Standard,2015,1.5,159000,True
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2020,2.5,36000,True
+Silverado,Riyadh,Chevrolet,Automatic,Saudi,Full,2012,5.3,350000,True
+Previa,Qassim,Toyota,Automatic,Gulf Arabic,Standard,2010,4.0,300,True
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Standard,2020,5.3,18000,True
+Marquis,Al-Medina,Ford,Automatic,Other,Semi Full,2004,4.6,200000,True
+Furniture,Dammam,Toyota,Automatic,Saudi,Standard,2014,2.7,160000,True
+Edge,Riyadh,Ford,Automatic,Saudi,Semi Full,2008,3.5,146000,True
+Senta fe,Aseer,Hyundai,Automatic,Gulf Arabic,Full,2015,3.3,245000,True
+Camaro,Aseer,Chevrolet,Automatic,Other,Full,2014,3.6,182,True
+Range Rover,Dammam,Land Rover,Automatic,Other,Full,2019,5.0,3100,True
+VTC,Besha,Nissan,Manual,Saudi,Semi Full,2016,4.8,136000,True
+Sonata,Aseer,Hyundai,Automatic,Saudi,Full,2012,2.4,28000,True
+Caprice,Khobar,Chevrolet,Automatic,Saudi,Semi Full,2012,6.0,100000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2014,6.2,386000,True
+H1,Qassim,Hyundai,Automatic,Saudi,Standard,2016,2.4,125000,True
+Tahoe,Al-Medina,Chevrolet,Automatic,Saudi,Standard,2020,4.0,9000,True
+Hilux,Hail,Toyota,Manual,Saudi,Semi Full,2015,4.0,170000,True
+Camry,Dammam,Toyota,Automatic,Gulf Arabic,Standard,2017,2.5,150000,True
+Hilux,Al-Medina,Toyota,Manual,Saudi,Standard,2021,2.7,3500,True
+Armada,Hafar Al-Batin,Nissan,Automatic,Saudi,Full,2007,8.0,250000,True
+Cadenza,Hafar Al-Batin,Kia,Automatic,Saudi,Full,2018,3.3,120,True
+Yukon,Abha,GMC,Automatic,Other,Standard,2007,5.3,355000,True
+Fusion,Dammam,Ford,Automatic,Saudi,Full,2014,2.5,118000,True
+Patrol,Qassim,Nissan,Automatic,Saudi,Semi Full,2013,8.0,234000,True
+Camry,Dammam,Toyota,Automatic,Saudi,Full,2020,2.5,11800,True
+Bora,Riyadh,Volkswagen,Automatic,Other,Full,2004,1.6,150000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2016,4.0,155000,True
+Silverado,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,380,True
+FJ,Makkah,Toyota,Automatic,Saudi,Semi Full,2014,4.0,164,True
+Hilux,Hail,Toyota,Manual,Saudi,Full,2016,4.0,13200,True
+Hilux,Dammam,Toyota,Automatic,Gulf Arabic,Semi Full,2016,2.7,68700,True
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2016,5.7,113000,True
+Acadia,Khobar,GMC,Automatic,Other,Standard,2011,3.6,264000,True
+Other,Khobar,Other,Manual,Other,Semi Full,2019,2.4,1000,True
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2018,4.8,58000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2009,5.3,465000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2015,3.5,200000,True
+X,Khobar,BMW,Automatic,Saudi,Full,2014,4.4,124000,True
+Cressida,Aseer,Toyota,Manual,Saudi,Semi Full,1986,4.5,480000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2009,5.3,309000,True
+Prado,Khobar,Toyota,Automatic,Saudi,Semi Full,2012,4.0,311236,True
+LX,Riyadh,Lexus,Automatic,Other,Standard,1999,1.0,300,True
+Azera,Al-Medina,Hyundai,Automatic,Saudi,Semi Full,2017,3.0,75000,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Gulf Arabic,Semi Full,2016,4.0,100,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Full,2020,3.5,13500,True
+Land Cruiser,Aseer,Toyota,Manual,Saudi,Full,2006,4.6,283,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Semi Full,2018,3.5,15000,True
+Carnival,Riyadh,Kia,Automatic,Saudi,Semi Full,2016,2.0,168000,True
+Sunny,Dammam,Nissan,Automatic,Gulf Arabic,Standard,2018,1.5,59700,True
+H6,Jeddah,HAVAL,Automatic,Saudi,Full,2021,2.0,45000,True
+Accord,Makkah,Honda,Automatic,Gulf Arabic,Full,2015,3.5,110,True
+6,Dammam,Mazda,Automatic,Gulf Arabic,Semi Full,2016,2.5,134000,True
+Impala,Jeddah,Chevrolet,Automatic,Saudi,Full,2015,3.6,170,True
+Corolla Cross,Jeddah,Toyota,Manual,Saudi,Semi Full,2009,1.6,430000,True
+Carenz,Dammam,Kia,Automatic,Gulf Arabic,Full,2014,8.0,150000,True
+Hilux,Dammam,Toyota,Automatic,Gulf Arabic,Semi Full,2016,2.7,188,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2014,5.7,196000,True
+Mustang,Jeddah,Ford,Automatic,Other,Standard,2013,2.3,180000,True
+ES,Riyadh,Lexus,Automatic,Saudi,Standard,2021,2.5,13000,True
+Suburban,Al-Medina,Chevrolet,Automatic,Saudi,Semi Full,2012,5.3,454000,True
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Full,2008,5.3,256,True
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2016,5.0,35500,True
+Taurus,Dammam,Ford,Automatic,Saudi,Semi Full,2016,3.5,248000,True
+Taurus,Qassim,Ford,Automatic,Saudi,Standard,2017,2.4,300000,True
+Land Cruiser Pickup,Jeddah,Toyota,Manual,Saudi,Semi Full,2014,4.0,118000,True
+Yukon,Riyadh,GMC,Automatic,Other,Standard,2007,1.0,300,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2020,2.7,62000,True
+Camry,Al-Medina,Toyota,Manual,Other,Semi Full,2000,1.8,800000,True
+Yukon,Al-Ahsa,GMC,Automatic,Saudi,Semi Full,2013,5.3,232,True
+Suburban,Al-Ahsa,Chevrolet,Automatic,Saudi,Full,2007,5.3,226853,True
+Land Cruiser Pickup,Dammam,Nissan,Manual,Saudi,Full,2013,4.8,311000,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2021,5.7,2000,True
+Camry,Riyadh,Toyota,Automatic,Other,Semi Full,2006,2.4,200000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2013,4.6,25000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2018,3.5,60000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2015,2.7,30000,True
+POS24,Al-Medina,Mercedes,Manual,Saudi,Full,1975,8.0,22552,True
+Aveo,Riyadh,Chevrolet,Automatic,Saudi,Standard,2011,1.6,21110,True
+Accent,Abha,Hyundai,Automatic,Saudi,Standard,2019,1.4,94000,True
+Patrol,Najran,Nissan,Automatic,Saudi,Full,2016,4.0,196,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,2015,5.3,165,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2013,4.6,288000,True
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2012,5.0,155000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2020,2.7,56748,True
+Silverado,Dammam,Chevrolet,Automatic,Unknown,Semi Full,2012,5.3,300000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2014,5.7,165000,True
+DTS,Riyadh,Cadillac,Automatic,Saudi,Full,2008,5.7,150000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2007,1.3,1111111,True
+Marquis,Al-Ahsa,Ford,Automatic,Other,Standard,1999,4.6,300000,True
+Azera,Arar,Hyundai,Automatic,Saudi,Semi Full,2021,2.5,3700,True
+Sierra,Riyadh,GMC,Automatic,Saudi,Standard,2013,5.3,322000,True
+The 7,Riyadh,BMW,Automatic,Saudi,Standard,2010,2.0,352000,True
+FJ,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2020,4.0,15000,True
+Elantra,Aseer,Hyundai,Automatic,Saudi,Semi Full,2020,2.0,60000,True
+Fluence,Riyadh,Renault,Automatic,Saudi,Standard,2014,1.5,150000,True
+Aurion,Aseer,Toyota,Automatic,Saudi,Full,2013,3.5,32300,True
+Yaris,Dammam,Toyota,Manual,Saudi,Standard,2014,1.4,128400,True
+Elantra,Al-Medina,Hyundai,Automatic,Saudi,Semi Full,2015,1.6,276,True
+Land Cruiser Pickup,Taef,Toyota,Manual,Gulf Arabic,Semi Full,2004,4.5,557,True
+Tahoe,Jeddah,Chevrolet,Automatic,Saudi,Full,2008,5.3,300000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2019,4.5,92543,True
+Yaris,Dammam,Toyota,Automatic,Saudi,Standard,2019,1.5,63000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2019,4.6,100,True
+Land Cruiser,Arar,Toyota,Automatic,Gulf Arabic,Full,2006,4.6,36600,True
+VTC,Qassim,Nissan,Manual,Other,Standard,2013,4.8,255,True
+Yaris,Tabouk,Toyota,Automatic,Saudi,Semi Full,2016,1.5,230,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2011,1.6,258,True
+Charger,Al-Ahsa,Dodge,Automatic,Other,Standard,2006,3.5,280000,True
+Hilux,Al-Ahsa,Toyota,Manual,Gulf Arabic,Semi Full,2020,2.7,11000,True
+FJ,Dammam,Toyota,Automatic,Saudi,Standard,2015,1.6,264000,True
+Land Cruiser,Hafar Al-Batin,Toyota,Manual,Saudi,Semi Full,2004,4.6,540000,True
+Yaris,Al-Baha,Toyota,Automatic,Saudi,Semi Full,2016,1.4,200,True
+Fluence,Qassim,Renault,Automatic,Gulf Arabic,Full,2015,1.6,87000,True
+Accord,Wadi Dawasir,Honda,Automatic,Saudi,Full,2004,2.4,5735,True
+Other,Jeddah,Ford,Automatic,Saudi,Semi Full,2008,1.0,1910000,True
+LX,Al-Medina,Lexus,Automatic,Saudi,Full,2016,5.7,143000,True
+Optra,Jeddah,Chevrolet,Automatic,Saudi,Semi Full,2008,1.3,155,True
+Tucson,Hafar Al-Batin,Hyundai,Automatic,Other,Full,2017,5.3,65000,True
+Caprice,Riyadh,Chevrolet,Automatic,Unknown,Standard,2011,6.0,259000,True
+Innova,Jeddah,Toyota,Automatic,Saudi,Standard,2017,2.7,159000,True
+Silverado,Riyadh,Chevrolet,Manual,Saudi,Full,1997,5.3,219000,True
+GX,Riyadh,Lexus,Automatic,Gulf Arabic,Semi Full,2018,4.6,53190,True
+Senta fe,Dammam,Hyundai,Automatic,Saudi,Standard,2014,3.3,265,True
+Flex,Dammam,Ford,Automatic,Other,Standard,2011,9.0,300000,True
+F150,Qassim,Ford,Automatic,Saudi,Semi Full,2018,5.0,50000,True
+Accord,Jeddah,Honda,Automatic,Saudi,Semi Full,2018,1.5,105000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2020,2.5,34800,True
+Caprice,Riyadh,Chevrolet,Automatic,Gulf Arabic,Standard,2011,6.0,450000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2014,4.6,270,True
+LX,Al-Medina,Lexus,Automatic,Gulf Arabic,Full,2017,5.7,27000,True
+Sunny,Dammam,Nissan,Automatic,Saudi,Semi Full,2016,1.5,76000,True
+Yukon,Al-Ahsa,GMC,Automatic,Other,Standard,2007,5.3,217,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Full,2021,2.0,750000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Standard,2004,2.4,300000,True
+Navara,Dammam,Nissan,Manual,Saudi,Standard,2016,2.5,273000,True
+Accent,Qassim,Hyundai,Manual,Saudi,Standard,2009,2.5,280000,True
+Furniture,Qassim,Toyota,Automatic,Saudi,Semi Full,2021,2.4,5780,True
+Acadia,Qassim,GMC,Automatic,Saudi,Semi Full,2010,3.6,269,True
+Ciocca,Qassim,Toyota,Automatic,Saudi,Standard,2013,5.7,179000,True
+Traverse,Makkah,Chevrolet,Automatic,Other,Semi Full,2009,3.8,300,True
+Echo,Riyadh,Toyota,Manual,Saudi,Semi Full,2005,1.5,302000,True
+Camaro,Qurayyat,Chevrolet,Automatic,Other,Standard,2011,3.6,145000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Standard,2013,4.0,287808,True
+Land Cruiser,Jeddah,Toyota,Manual,Gulf Arabic,Semi Full,1997,4.5,600000,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2015,5.7,109900,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2015,1.1,200548,True
+Expedition,Riyadh,Ford,Automatic,Gulf Arabic,Semi Full,2013,5.4,130,True
+Tahoe,Riyadh,Chevrolet,Automatic,Other,Semi Full,2008,5.3,450000,True
+Prado,Dammam,Toyota,Automatic,Saudi,Semi Full,2017,6.0,256,True
+Azera,Riyadh,Hyundai,Automatic,Other,Semi Full,2020,3.0,51000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2003,4.6,389265,True
+Pajero,Jeddah,Mitsubishi,Automatic,Gulf Arabic,Full,2016,3.5,189800,True
+Prado,Jazan,Toyota,Automatic,Saudi,Semi Full,2016,4.0,191,True
+Camry,Al-Jouf,Toyota,Automatic,Gulf Arabic,Semi Full,2011,2.5,349000,True
+Innova,Riyadh,Toyota,Manual,Saudi,Standard,2006,2.7,498000,True
+Cerato,Al-Medina,Kia,Automatic,Saudi,Semi Full,2016,2.0,99000,True
+Armada,Al-Ahsa,Nissan,Automatic,Saudi,Semi Full,2008,4.0,240000,True
+Dyna,Riyadh,Toyota,Manual,Saudi,Standard,1991,2.4,1111,True
+CX9,Qassim,Mazda,Automatic,Gulf Arabic,Standard,2016,2.0,77000,True
+Avalanche,Riyadh,Chevrolet,Automatic,Other,Semi Full,2007,6.5,383,True
+Innova,Dammam,Toyota,Automatic,Saudi,Standard,2014,2.7,390861,True
+LX,Jeddah,Lexus,Automatic,Saudi,Full,2019,5.7,45000,True
+H1,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,175250,True
+Vego,Wadi Dawasir,Ford,Automatic,Other,Standard,2020,1.5,3300,True
+Accord,Riyadh,Honda,Automatic,Saudi,Standard,2018,1.5,55000,True
+MKX,Yanbu,Lincoln,Automatic,Other,Full,2011,3.7,321,True
+Taurus,Jeddah,Ford,Automatic,Other,Standard,2018,3.5,68000,True
+Suburban,Al-Medina,Chevrolet,Automatic,Saudi,Standard,2015,5.3,75000,True
+3,Dammam,Mazda,Automatic,Saudi,Standard,2013,1.6,172000,True
+Land Cruiser Pickup,Tabouk,Toyota,Manual,Gulf Arabic,Semi Full,2014,4.0,185000,True
+Marquis,Al-Baha,Ford,Automatic,Other,Full,1999,4.6,336737,True
+Caprice,Khobar,Chevrolet,Automatic,Saudi,Full,1995,6.0,600000,True
+SRX,Riyadh,Cadillac,Automatic,Saudi,Semi Full,2015,3.6,155000,True
+Maxima,Riyadh,Nissan,Automatic,Saudi,Semi Full,2017,3.5,111000,True
+Patrol,Taef,Nissan,Manual,Saudi,Semi Full,1999,4.0,40000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2008,4.0,500,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2012,5.3,170,True
+Marquis,Riyadh,Ford,Automatic,Other,Full,2005,5.1,450000,True
+Escalade,Riyadh,Cadillac,Automatic,Saudi,Full,2011,6.2,200000,True
+Sonata,Riyadh,Hyundai,Automatic,Gulf Arabic,Standard,2017,2.4,311000,True
+SLK,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2013,1.8,137000,True
+X,Riyadh,BMW,Automatic,Saudi,Semi Full,2015,4.3,168000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2018,5.7,23435,True
+Hilux,Taef,Toyota,Manual,Gulf Arabic,Full,2013,2.7,171400,True
+Grand Cherokee,Jeddah,Jeep,Automatic,Saudi,Full,2018,6.4,83000,True
+Carenz,Riyadh,Kia,Automatic,Gulf Arabic,Semi Full,2013,2.0,149000,True
+Rav4,Riyadh,Toyota,Automatic,Saudi,Standard,2018,2.5,124000,True
+Camry,Riyadh,Toyota,Manual,Saudi,Semi Full,2010,2.5,311000,True
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2016,1.4,253,True
+Yukon,Dammam,GMC,Automatic,Saudi,Standard,2016,5.3,103000,True
+C300,Taef,Chrysler,Automatic,Other,Standard,2016,3.6,190000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2020,2.5,5000,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2015,5.3,218000,True
+Land Cruiser Pickup,Al-Medina,Toyota,Manual,Gulf Arabic,Full,2014,4.0,219078,True
+Hilux,Aseer,Toyota,Automatic,Saudi,Full,2018,2.7,75000,True
+X,Riyadh,BMW,Automatic,Saudi,Full,2014,8.0,222000,True
+Land Cruiser,Al-Jouf,Toyota,Automatic,Saudi,Full,2014,4.6,182000,True
+CS35,Jazan,Changan,Automatic,Saudi,Full,2021,8.5,30000,True
+Durango,Khobar,Dodge,Automatic,Saudi,Semi Full,2011,5.7,210000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2017,5.3,118,True
+Silverado,Najran,Chevrolet,Automatic,Saudi,Standard,2010,3.5,303545,True
+Land Cruiser,Besha,Toyota,Automatic,Saudi,Full,2013,7.4,200,True
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Full,2019,2.4,92000,True
+Land Cruiser,Yanbu,Toyota,Automatic,Gulf Arabic,Semi Full,2013,4.6,73335,True
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Standard,2017,3.5,265,True
+Camry,Makkah,Toyota,Manual,Saudi,Standard,2001,1.1,700000,True
+S,Qassim,Mercedes,Automatic,Saudi,Full,2018,3.5,53000,True
+Land Cruiser,Dammam,Toyota,Automatic,Unknown,Full,2008,4.6,475000,True
+Malibu,Riyadh,Chevrolet,Automatic,Saudi,Full,2015,2.5,162000,True
+Innova,Al-Medina,Toyota,Automatic,Saudi,Full,2018,2.7,92000,True
+Ranger,Riyadh,Ford,Manual,Saudi,Semi Full,2016,2.5,164000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Unknown,Full,1997,4.0,300000,True
+Land Cruiser Pickup,Makkah,Toyota,Manual,Saudi,Standard,2008,4.0,160,True
+Q5,Jeddah,Audi,Automatic,Saudi,Full,2010,2.0,120000,True
+Sonata,Abha,Hyundai,Automatic,Other,Standard,2019,2.4,32000,True
+Accent,Najran,Hyundai,Automatic,Saudi,Standard,2012,1.4,360000,True
+Patrol,Hail,Nissan,Manual,Saudi,Standard,2004,4.5,164000,True
+The 6,Dammam,BMW,Automatic,Gulf Arabic,Full,2015,3.0,137500,True
+Suburban,Jazan,GMC,Automatic,Saudi,Full,2008,5.3,154,True
+Explorer,Qassim,Ford,Automatic,Saudi,Standard,2009,3.5,99000,True
+Land Cruiser,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2008,4.5,545000,True
+Hilux,Dammam,Toyota,Manual,Saudi,Full,2015,2.7,161000,True
+Optima,Al-Medina,Kia,Automatic,Other,Semi Full,2015,2.4,950000,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,2007,1.8,541000,True
+CX3,Riyadh,Mazda,Automatic,Saudi,Standard,2020,2.0,14501,True
+Cruze,Jeddah,Chevrolet,Automatic,Saudi,Semi Full,2012,1.8,12300,True
+LS,Riyadh,Lexus,Automatic,Saudi,Full,2011,4.6,149000,True
+Yaris,Riyadh,Toyota,Automatic,Saudi,Standard,2017,1.5,140000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2019,4.6,33700,True
+Dyna,Tabouk,Isuzu,Manual,Saudi,Semi Full,2008,3.0,130,True
+F150,Qassim,Ford,Automatic,Saudi,Full,2013,6.5,419000,True
+CX9,Riyadh,Mazda,Automatic,Saudi,Full,2019,2.5,65000,True
+Land Cruiser,Makkah,Toyota,Automatic,Saudi,Full,2013,4.6,254,True
+Innova,Riyadh,Toyota,Automatic,Saudi,Standard,2015,2.7,452000,True
+Accord,Al-Medina,Honda,Automatic,Saudi,Semi Full,2017,2.4,80000,True
+Taurus,Qassim,Ford,Automatic,Saudi,Standard,2015,3.5,253000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,5.3,55700,True
+Camry,Sabya,Toyota,Manual,Saudi,Full,2008,2.5,500000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,140000,True
+Expedition,Jeddah,Ford,Automatic,Saudi,Semi Full,2013,5.4,316,True
+Soul,Riyadh,Kia,Automatic,Saudi,Semi Full,2016,2.0,142000,True
+Pajero,Hafar Al-Batin,Mitsubishi,Automatic,Saudi,Full,2007,3.5,300000,True
+Victoria,Najran,Ford,Automatic,Other,Standard,2003,4.6,280000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2018,3.5,180,True
+Civic,Jeddah,Honda,Automatic,Other,Semi Full,2006,1.6,305000,True
+Suburban,Jeddah,Chevrolet,Automatic,Other,Semi Full,2001,3.8,290000,True
+Taurus,Makkah,Ford,Automatic,Other,Semi Full,2013,3.5,250,True
+Datsun,Besha,Nissan,Manual,Saudi,Full,2013,2.4,202702,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2014,4.0,497480,True
+Malibu,Jeddah,Chevrolet,Automatic,Saudi,Full,2011,3.6,299,True
+LS,Riyadh,Lexus,Automatic,Saudi,Full,2008,8.0,383000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2013,5.3,165000,True
+H9,Qassim,HAVAL,Automatic,Saudi,Full,2021,2.0,508,True
+H1,Al-Ahsa,Hyundai,Automatic,Saudi,Semi Full,2017,2.4,245900,True
+Prado,Riyadh,Toyota,Automatic,Saudi,Full,2014,4.0,220,True
+Cayenne,Jubail,Porsche,Automatic,Saudi,Full,2005,2.4,300000,True
+Hilux,Tabouk,Toyota,Manual,Other,Full,2009,5.3,400,True
+Maybach,Riyadh,Mercedes,Automatic,Saudi,Full,2019,6.0,29000,True
+Yukon,Riyadh,GMC,Automatic,Other,Standard,2016,5.3,32000,True
+Picanto,Jeddah,Kia,Automatic,Saudi,Semi Full,2012,1.5,200000,True
+Taurus,Aseer,Ford,Automatic,Saudi,Full,2015,3.5,214,True
+Taurus,Abha,Ford,Automatic,Saudi,Standard,2015,3.5,279000,True
+S,Riyadh,Mercedes,Automatic,Saudi,Full,2001,3.0,299,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2019,5.7,450000,True
+Cerato,Jeddah,Kia,Automatic,Unknown,Standard,2012,1.6,265000,True
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,1.6,37000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,74000,True
+Datsun,Jeddah,Nissan,Manual,Saudi,Standard,2016,2.4,110014,True
+Corolla,Abha,Toyota,Manual,Saudi,Standard,2013,1.4,400000,True
+Accord,Riyadh,Honda,Automatic,Saudi,Full,2018,1.5,106,True
+Avalon,Jeddah,Toyota,Automatic,Other,Full,2017,3.5,117000,True
+Previa,Makkah,Toyota,Automatic,Gulf Arabic,Semi Full,2012,2.4,190000,True
+Cressida,Al-Medina,Toyota,Manual,Gulf Arabic,Semi Full,1996,2.4,60000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2013,5.4,295000,True
+Ciocca,Taef,Toyota,Automatic,Saudi,Semi Full,2011,5.7,240000,True
+S,Qassim,Mercedes,Automatic,Saudi,Full,2018,3.5,53700,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,5.4,277000,True
+Panamera,Jeddah,Porsche,Automatic,Saudi,Full,2011,3.6,169000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Unknown,Semi Full,2008,5.3,85000,True
+Accent,Riyadh,Hyundai,Automatic,Other,Standard,2013,1.4,240,True
+Land Cruiser 70,Taef,Toyota,Manual,Saudi,Full,1983,6.0,10000,True
+KICKS,Riyadh,Nissan,Automatic,Saudi,Semi Full,2018,5.7,26000,True
+Rav4,Al-Ahsa,Toyota,Automatic,Other,Standard,2017,2.5,91000,True
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Full,2007,3.5,200000,True
+Camry,Taef,Toyota,Automatic,Saudi,Semi Full,2017,2.5,148000,True
+Delta,Taef,Daihatsu,Manual,Saudi,Semi Full,2012,4.0,300000,True
+GLE,Riyadh,Mercedes,Automatic,Saudi,Full,2018,3.0,40600,True
+Other,Jazan,Other,Manual,Other,Standard,2011,2.4,100000,True
+Avalon,Jeddah,Toyota,Automatic,Saudi,Full,2016,3.5,60000,True
+Land Cruiser,Al-Ahsa,Toyota,Automatic,Other,Full,2015,4.6,139000,True
+Silverado,Aseer,Chevrolet,Automatic,Saudi,Semi Full,2014,4.3,52000,True
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2021,5.0,5700,True
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2016,1.5,97000,True
+Escalade,Najran,Cadillac,Automatic,Other,Full,2007,6.2,222000,True
+C,Makkah,Mercedes,Automatic,Saudi,Full,2016,6.3,50000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2014,5.4,200,True
+Expedition,Jubail,Ford,Automatic,Saudi,Full,2004,5.4,231091,True
+Cadenza,Arar,Kia,Automatic,Saudi,Semi Full,2018,1.6,7500,True
+Yaris,Dammam,Toyota,Automatic,Gulf Arabic,Standard,2015,1.5,94000,True
+Marquis,Riyadh,Ford,Automatic,Saudi,Full,1998,4.6,492360,True
+Land Cruiser,Riyadh,Toyota,Manual,Gulf Arabic,Full,2004,5.7,385000,True
+Patrol,Besha,Nissan,Automatic,Saudi,Standard,2019,4.0,54000,True
+Traverse,Tabouk,Chevrolet,Automatic,Saudi,Semi Full,2016,3.6,56500,True
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2016,1.0,86428,True
+Hilux,Dammam,Toyota,Manual,Unknown,Full,2016,2.7,342125,True
+Caprice,Dammam,Chevrolet,Automatic,Other,Full,2004,6.0,400,True
+H1,Dammam,Hyundai,Manual,Saudi,Standard,2017,2.4,100000,True
+S300,Jeddah,Chrysler,Automatic,Saudi,Full,2014,3.6,94000,True
+Elantra,Aseer,Hyundai,Automatic,Saudi,Full,2021,2.0,14000,True
+Hilux,Qassim,Toyota,Manual,Saudi,Semi Full,2009,2.7,35000,True
+The 4,Riyadh,BMW,Automatic,Gulf Arabic,Full,2018,2.0,45000,True
+Prado,Jeddah,Toyota,Automatic,Saudi,Semi Full,2015,2.7,97000,True
+Datsun,Jeddah,Nissan,Manual,Saudi,Full,2015,2.4,116,True
+Yukon,Najran,GMC,Automatic,Gulf Arabic,Semi Full,2008,5.3,395000,True
+CX9,Riyadh,Mazda,Automatic,Saudi,Full,2017,2.5,123000,True
+Pajero,Qassim,Mitsubishi,Automatic,Other,Semi Full,2016,3.5,190,True
+Silverado,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,153000,True
+Avalon,Riyadh,Toyota,Automatic,Saudi,Full,2013,3.5,136000,True
+Hiace,Jeddah,Toyota,Manual,Saudi,Standard,2013,2.7,270000,True
+Range Rover,Dammam,Land Rover,Automatic,Saudi,Semi Full,2014,3.0,149000,True
+Flex,Jazan,Ford,Automatic,Saudi,Standard,2014,3.5,142000,True
+Camry,Najran,Toyota,Automatic,Saudi,Semi Full,2020,2.5,30000,True
+Grand Vitara,Makkah,Suzuki,Manual,Saudi,Standard,2002,2.5,371000,True
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2012,3.6,360000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2017,5.3,147000,True
+Hilux,Qurayyat,Toyota,Manual,Saudi,Full,2020,2.8,31000,True
+Marquis,Al-Baha,Ford,Automatic,Saudi,Full,1999,4.6,10000,True
+Optima,Makkah,Kia,Automatic,Saudi,Semi Full,2016,2.4,190000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Standard,2015,1.5,137000,True
+Camry,Yanbu,Toyota,Automatic,Saudi,Standard,2016,2.5,111417,True
+The 5,Makkah,BMW,Automatic,Other,Semi Full,2005,2.0,278878,True
+H3,Al-Medina,Hummer,Automatic,Other,Full,2007,3.5,330,True
+Taurus,Qassim,Ford,Automatic,Saudi,Semi Full,2014,3.5,190000,True
+Expedition,Jeddah,Ford,Automatic,Saudi,Full,2012,5.4,242,True
+Marquis,Abha,Ford,Automatic,Saudi,Semi Full,2008,4.6,2500,True
+Land Cruiser,Abha,Toyota,Manual,Saudi,Semi Full,2002,4.6,214000,True
+ES,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2019,3.5,84000,True
+Innova,Jeddah,Toyota,Automatic,Saudi,Full,2018,2.7,1000,True
+Abeka,Riyadh,Chevrolet,Automatic,Saudi,Full,2007,4.3,168000,True
+Sierra,Riyadh,GMC,Automatic,Other,Standard,2011,5.3,262000,True
+Patrol,Makkah,Nissan,Manual,Saudi,Semi Full,2003,6.0,20017,True
+Camry,Qassim,Toyota,Automatic,Unknown,Standard,2019,2.5,30000,True
+Camry,Jeddah,Toyota,Automatic,Unknown,Standard,2010,2.5,142333,True
+Hilux,Al-Ahsa,Toyota,Manual,Saudi,Full,2012,2.7,337681,True
+Suburban,Riyadh,Chevrolet,Automatic,Other,Full,2009,5.3,190000,True
+ES,Riyadh,Lexus,Automatic,Saudi,Standard,2019,2.5,30000,True
+LX,Tabouk,Lexus,Automatic,Gulf Arabic,Full,2014,5.7,128000,True
+The M,Al-Ahsa,BMW,Automatic,Saudi,Full,2007,2.0,145000,True
+Tahoe,Hail,Chevrolet,Automatic,Saudi,Standard,2021,8.5,7700,True
+Accent,Arar,Hyundai,Automatic,Saudi,Standard,2015,1.4,196,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Full,2019,1.1,166,True
+Delta,Jeddah,Daihatsu,Manual,Saudi,Standard,2014,3.7,51000,True
+Navara,Dammam,Nissan,Manual,Saudi,Standard,2016,2.5,141000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2016,2.7,280,True
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2014,4.6,495000,True
+H1,Riyadh,Hyundai,Automatic,Other,Semi Full,2015,2.7,112000,True
+Optima,Riyadh,Kia,Automatic,Saudi,Standard,2018,2.0,11000,True
+A8,Riyadh,Audi,Automatic,Saudi,Full,2014,3.0,175,True
+Sonata,Riyadh,Hyundai,Automatic,Gulf Arabic,Standard,2016,2.4,80000,True
+Tahoe,Hail,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,170000,True
+Hilux,Dammam,Toyota,Manual,Saudi,Semi Full,2018,2.7,67000,True
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2016,2.0,249110,True
+Innova,Jeddah,Toyota,Automatic,Saudi,Standard,2019,2.7,75000,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Full,2016,2.0,245000,True
+Expedition,Tabouk,Ford,Automatic,Saudi,Standard,2013,5.4,99349,True
+FJ,Jeddah,Toyota,Automatic,Saudi,Full,2009,4.0,360000,True
+S,Dammam,Mercedes,Automatic,Saudi,Full,2011,3.6,84000,True
+Suburban,Tabouk,Chevrolet,Automatic,Saudi,Full,2009,5.3,25000,True
+Avalon,Riyadh,Toyota,Automatic,Saudi,Full,2009,3.5,430000,True
+Accord,Aseer,Honda,Automatic,Saudi,Full,2005,2.0,530000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Semi Full,2012,4.0,300000,True
+Accord,Taef,Honda,Automatic,Saudi,Full,2009,2.4,100,True
+Tahoe,Abha,Chevrolet,Automatic,Saudi,Standard,2016,5.3,145000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2021,5.4,5000,True
+Pajero,Abha,Mitsubishi,Automatic,Unknown,Full,2020,3.5,5000,True
+Datsun,Khobar,Nissan,Manual,Other,Standard,2014,2.4,119000,True
+IS,Arar,Lexus,Automatic,Gulf Arabic,Full,2020,2.0,5900,True
+Blazer,Riyadh,Chevrolet,Automatic,Saudi,Full,2006,2.3,3500,True
+300,Riyadh,Chrysler,Automatic,Saudi,Full,2007,3.5,30000,True
+Elantra,Riyadh,Hyundai,Automatic,Other,Semi Full,2016,2.0,248767,True
+Taurus,Al-Medina,Ford,Automatic,Saudi,Full,2013,3.0,148000,True
+Hilux,Riyadh,Toyota,Automatic,Saudi,Full,2020,2.7,1040,True
+Hilux,Abha,Toyota,Manual,Saudi,Semi Full,2016,2.7,155000,True
+C300,Al-Baha,Chrysler,Automatic,Saudi,Full,2006,3.5,200000,True
+Corolla,Jeddah,Toyota,Automatic,Saudi,Semi Full,2019,1.6,31000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2019,2.5,84000,True
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2009,5.7,422,True
+Hilux,Al-Ahsa,Toyota,Manual,Gulf Arabic,Full,2015,2.7,198000,True
+CX9,Jeddah,Mazda,Automatic,Saudi,Full,2020,2.5,31000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.4,112000,True
+LX,Tabouk,Lexus,Automatic,Other,Full,1998,5.7,200000,True
+Tucson,Qassim,Hyundai,Automatic,Gulf Arabic,Semi Full,2017,2.0,149293,True
+Accord,Riyadh,Honda,Automatic,Gulf Arabic,Full,2017,2.4,30000,True
+SLK,Riyadh,Mercedes,Automatic,Gulf Arabic,Full,2013,3.0,100000,True
+Expedition,Al-Medina,Ford,Automatic,Saudi,Full,2004,5.4,230000,True
+Expedition,Jeddah,Ford,Automatic,Saudi,Semi Full,2012,8.0,190,True
+Azera,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,3.5,95000,True
+QX,Riyadh,INFINITI,Automatic,Saudi,Full,2014,3.7,186000,True
+Camry,Sabya,Toyota,Manual,Other,Semi Full,2006,2.5,250,True
+Rio,Riyadh,Kia,Automatic,Saudi,Standard,2016,1.4,109000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2008,8.0,262000,True
+C300,Jeddah,Chrysler,Automatic,Saudi,Full,2019,3.6,80000,True
+Hilux,Al-Baha,Toyota,Manual,Saudi,Standard,2013,2.7,154500,True
+LX,Tabouk,Lexus,Automatic,Saudi,Full,2010,1.0,400,True
+Expedition,Riyadh,Ford,Automatic,Other,Semi Full,2004,5.4,291000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Other,Semi Full,2016,5.0,184,True
+Explorer,Jeddah,Ford,Automatic,Saudi,Standard,2010,3.5,400000,True
+CX9,Jeddah,Mazda,Automatic,Saudi,Full,2016,3.7,152000,True
+The 7,Qassim,BMW,Automatic,Gulf Arabic,Full,2002,3.6,288000,True
+L200,Jeddah,Mitsubishi,Manual,Saudi,Standard,2016,2.4,239650,True
+Yukon,Aseer,GMC,Automatic,Saudi,Semi Full,2009,5.3,250,True
+Carnival,Riyadh,Kia,Automatic,Other,Semi Full,2009,3.3,216908,True
+Lancer,Dammam,Mitsubishi,Automatic,Gulf Arabic,Standard,2016,1.6,80000,True
+Land Cruiser 70,Dammam,Toyota,Manual,Saudi,Standard,2016,4.0,49900,True
+Ciocca,Besha,Toyota,Automatic,Saudi,Semi Full,2012,5.7,250000,True
+Sierra,Abha,GMC,Automatic,Other,Full,2015,5.3,212000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2007,4.7,340000,True
+The 3,Riyadh,BMW,Automatic,Saudi,Full,2014,2.0,110000,True
+Flex,Jeddah,Ford,Automatic,Saudi,Semi Full,2013,3.5,220000,True
+CS95,Makkah,Changan,Automatic,Saudi,Full,2020,2.0,70000,True
+Ciocca,Dammam,Toyota,Automatic,Saudi,Full,2012,5.7,67000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Full,2016,2.6,33387,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.7,106000,True
+Van,Riyadh,Ford,Automatic,Saudi,Full,2002,3.6,133000,True
+Sierra,Jubail,GMC,Automatic,Unknown,Full,1984,5.3,289000,True
+Impala,Dammam,Chevrolet,Automatic,Gulf Arabic,Full,2017,3.6,87000,True
+Pathfinder,Dammam,Nissan,Automatic,Saudi,Standard,2013,3.5,96000,True
+Van,Riyadh,Ford,Automatic,Saudi,Standard,2013,3.6,107601,True
+Camry,Riyadh,Toyota,Automatic,Unknown,Standard,2017,2.5,305000,True
+Hilux,Qassim,Toyota,Manual,Saudi,Semi Full,2016,2.7,135637,True
+Sierra,Taef,GMC,Automatic,Other,Standard,2019,5.3,2900,True
+Camry,Dammam,Toyota,Automatic,Saudi,Standard,2017,2.5,119000,True
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2020,2.5,20000,True
+Land Cruiser,Aseer,Toyota,Automatic,Gulf Arabic,Semi Full,2016,4.6,121,True
+Boxer,Dammam,Peugeot,Manual,Saudi,Full,2014,2.8,207000,True
+Marquis,Yanbu,Ford,Automatic,Other,Full,2009,5.7,244000,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Full,2021,1.0,13169,True
+Patrol,Riyadh,Nissan,Manual,Saudi,Standard,1997,4.2,318,True
+Marquis,Al-Medina,Ford,Automatic,Other,Semi Full,2010,8.0,349000,True
+Land Cruiser,Al-Medina,Toyota,Manual,Saudi,Semi Full,2015,4.6,199,True
+VTC,Tabouk,Nissan,Manual,Saudi,Standard,2015,4.8,164000,True
+Suburban,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2005,2.4,350000,True
+Camry,Aseer,Toyota,Manual,Saudi,Semi Full,2005,2.5,570,True
+Caprice,Qassim,Chevrolet,Automatic,Unknown,Standard,2007,6.0,300000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,44500,True
+Navara,Dammam,Nissan,Automatic,Saudi,Semi Full,2013,2.5,76000,True
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2017,1.6,57000,True
+LX,Al-Medina,Lexus,Automatic,Saudi,Full,2015,5.7,157000,True
+Patrol,Riyadh,Nissan,Automatic,Unknown,Full,2019,4.0,38000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Other,Full,2011,5.3,165000,True
+Camry,Makkah,Toyota,Automatic,Saudi,Full,2017,1.6,99000,True
+Camry,Hafar Al-Batin,Toyota,Automatic,Saudi,Standard,2019,2.5,39180,True
+Delta,Jeddah,Daihatsu,Manual,Saudi,Full,2014,3.7,287000,True
+Corolla,Riyadh,Toyota,Automatic,Saudi,Semi Full,2015,1.6,135000,True
+Odyssey,Al-Medina,Honda,Automatic,Saudi,Full,2012,2.0,360,True
+LX,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2020,5.7,37000,True
+Altima,Dammam,Nissan,Manual,Other,Full,1993,2.5,250,True
+Yukon,Al-Medina,GMC,Automatic,Saudi,Full,2015,3.5,124000,True
+Wrangler,Riyadh,Jeep,Automatic,Saudi,Standard,2014,3.6,150,True
+Hilux,Makkah,Toyota,Manual,Gulf Arabic,Full,2018,2.7,84620,True
+FJ,Hail,Toyota,Automatic,Gulf Arabic,Full,2016,4.0,140000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Standard,2013,5.3,300000,True
+Land Cruiser 70,Riyadh,Toyota,Manual,Saudi,Full,2016,4.0,15000,True
+Camry,Makkah,Toyota,Automatic,Saudi,Full,2019,2.5,8000,True
+Rio,Riyadh,Kia,Automatic,Saudi,Semi Full,2013,1.4,235000,True
+Tahoe,Hafar Al-Batin,Chevrolet,Automatic,Saudi,Semi Full,2011,5.3,300000,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2004,4.7,390,True
+G,Qassim,Mercedes,Automatic,Saudi,Full,2016,4.0,150000,True
+CRV,Riyadh,Honda,Automatic,Saudi,Semi Full,2004,2.4,331809,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.4,88000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2013,4.5,600,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.5,12000,True
+Furniture,Qassim,Toyota,Automatic,Saudi,Semi Full,2013,2.7,320,True
+Camry,Najran,Toyota,Manual,Saudi,Semi Full,2004,7.8,507,True
+Corolla,Qurayyat,Toyota,Automatic,Saudi,Semi Full,2015,1.6,144000,True
+Optima,Riyadh,Kia,Automatic,Saudi,Standard,2013,1.6,200,True
+Taurus,Jeddah,Ford,Automatic,Other,Full,2013,3.7,267000,True
+LX,Riyadh,Lexus,Automatic,Saudi,Full,2016,5.7,150000,True
+Land Cruiser,Al-Jouf,Toyota,Automatic,Gulf Arabic,Full,2021,4.6,25000,True
+MKX,Dammam,Lincoln,Automatic,Saudi,Full,2007,3.7,340000,True
+Prado,Dammam,Toyota,Automatic,Saudi,Semi Full,2012,2.7,186000,True
+Yaris,Al-Ahsa,Toyota,Automatic,Saudi,Semi Full,2017,1.3,41800,True
+Land Cruiser,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2016,5.7,260,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2020,5.7,20000,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2015,1.4,322000,True
+Hilux,Wadi Dawasir,Toyota,Manual,Saudi,Full,2017,2.7,186,True
+Sierra,Riyadh,GMC,Manual,Saudi,Standard,1979,5.3,100,True
+Sonata,Qassim,Hyundai,Automatic,Other,Full,2018,1.7,85000,True
+ES,Jeddah,Lexus,Automatic,Saudi,Full,2012,3.5,48000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2015,2.0,300000,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Standard,2015,5.6,88000,True
+Sonata,Tabouk,Hyundai,Automatic,Other,Semi Full,2018,2.4,138000,True
+Prado,Qassim,Toyota,Automatic,Gulf Arabic,Full,2014,4.0,165000,True
+Carnival,Dammam,Kia,Automatic,Saudi,Semi Full,2016,3.3,161000,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Standard,2006,3.5,200000,True
+RX,Riyadh,Lexus,Automatic,Saudi,Full,2016,3.5,90000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Semi Full,2012,2.4,150,True
+Land Cruiser Pickup,Jeddah,Toyota,Manual,Gulf Arabic,Full,2020,9.0,30000,True
+E,Makkah,Mercedes,Automatic,Saudi,Full,2002,2.0,375,True
+Cayenne S,Riyadh,Porsche,Automatic,Saudi,Full,2009,3.6,382000,True
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Standard,2019,3.6,22000,True
+Rio,Al-Medina,Kia,Automatic,Saudi,Standard,2016,1.6,14000,True
+Malibu,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2016,3.6,87000,True
+Suburban,Makkah,Chevrolet,Automatic,Saudi,Semi Full,2016,5.3,171000,True
+Maxima,Riyadh,Nissan,Automatic,Gulf Arabic,Full,2012,3.5,304000,True
+CX9,Jeddah,Mazda,Automatic,Saudi,Full,2020,2.5,40000,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Full,2015,2.5,191000,True
+Accent,Aseer,Hyundai,Automatic,Saudi,Full,2010,1.4,224,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2021,4.6,2600,True
+Soul,Taef,Kia,Automatic,Gulf Arabic,Semi Full,2017,1.5,17000,True
+Camry,Jeddah,Toyota,Manual,Saudi,Standard,1998,2.5,420000,True
+Hilux,Taef,Toyota,Manual,Saudi,Semi Full,2012,2.4,800000,True
+Marquis,Najran,Ford,Automatic,Other,Full,2001,4.6,200000,True
+L200,Al-Ahsa,Mitsubishi,Manual,Saudi,Full,2020,2.5,9000,True
+Altima,Riyadh,Nissan,Automatic,Saudi,Semi Full,2018,2.5,69800,True
+Land Cruiser Pickup,Al-Ahsa,Toyota,Manual,Gulf Arabic,Full,2016,4.0,282000,True
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2016,1.6,300000,True
+Camry,Makkah,Toyota,Manual,Saudi,Semi Full,2003,2.4,350,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Full,2015,2.5,206000,True
+Ciocca,Dammam,Toyota,Automatic,Saudi,Semi Full,2011,5.7,304000,True
+Suburban,Riyadh,GMC,Automatic,Saudi,Semi Full,1994,1.8,285,True
+Range Rover,Jeddah,Land Rover,Automatic,Saudi,Standard,2012,8.0,149,True
+Land Cruiser Pickup,Tabouk,Toyota,Manual,Gulf Arabic,Full,2014,4.0,300000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2017,2.7,264000,True
+Passat,Al-Medina,Volkswagen,Automatic,Other,Semi Full,2012,2.5,300,True
+Accord,Jeddah,Honda,Automatic,Saudi,Full,2014,1.4,39720,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2017,4.0,136000,True
+LS,Riyadh,Lexus,Automatic,Gulf Arabic,Full,2013,4.6,65000,True
+Land Cruiser,Dammam,Toyota,Manual,Saudi,Standard,2011,4.0,220000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2015,2.0,25700,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2020,5.7,22000,True
+LS,Taef,Lexus,Automatic,Other,Full,2005,4.6,140000,True
+Pathfinder,Qassim,Nissan,Automatic,Unknown,Full,2002,3.5,458312,True
+Hilux,Riyadh,Toyota,Automatic,Saudi,Standard,2021,1.0,4000,True
+Land Cruiser Pickup,Tabouk,Nissan,Automatic,Gulf Arabic,Full,2013,4.8,300000,True
+Charger,Al-Ahsa,Dodge,Automatic,Saudi,Semi Full,2014,5.7,153000,True
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Full,2017,5.0,10000,True
+Tucson,Jazan,Hyundai,Automatic,Saudi,Semi Full,2020,2.0,93000,True
+Elantra,Aseer,Hyundai,Automatic,Saudi,Standard,2016,1.6,265,True
+CX9,Makkah,Mazda,Automatic,Saudi,Full,2014,2.5,1700000,True
+Aveo,Riyadh,Chevrolet,Manual,Saudi,Semi Full,2004,1.6,220000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2013,3.5,53000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Full,1993,2.5,600000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Full,2019,4.6,70000,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2010,5.3,450,True
+LX,Aseer,Lexus,Automatic,Other,Full,2013,8.0,62000,True
+Camry,Sakaka,Toyota,Automatic,Saudi,Semi Full,2015,2.5,215000,True
+Accent,Aseer,Hyundai,Automatic,Saudi,Standard,2019,1.4,35000,True
+CX9,Riyadh,Mazda,Automatic,Saudi,Semi Full,2008,3.6,300000,True
+Rio,Jeddah,Kia,Automatic,Saudi,Semi Full,2017,1.6,124000,True
+Tahoe,Taef,Chevrolet,Automatic,Saudi,Standard,2013,5.3,344,True
+Camry,Qassim,Toyota,Automatic,Gulf Arabic,Full,2018,3.5,55000,True
+Land Cruiser,Al-Medina,Toyota,Manual,Other,Semi Full,1987,4.6,500000,True
+The 7,Makkah,BMW,Automatic,Saudi,Full,2016,2.0,99000,True
+Patrol,Jeddah,Nissan,Automatic,Saudi,Semi Full,2020,4.0,57000,True
+Camry,Aseer,Toyota,Automatic,Saudi,Full,2006,4.0,263,True
+Blazer,Al-Ahsa,Chevrolet,Automatic,Saudi,Full,2007,3.6,200000,True
+Land Cruiser,Najran,Toyota,Automatic,Saudi,Full,2016,8.0,119000,True
+Suburban,Taef,GMC,Automatic,Saudi,Full,1999,9.0,220000,True
+X,Riyadh,BMW,Automatic,Gulf Arabic,Semi Full,2020,2.0,4500,True
+Hilux,Jeddah,Toyota,Manual,Saudi,Full,2017,2.7,193,True
+Land Cruiser,Abha,Toyota,Automatic,Other,Full,2011,4.7,382,True
+Prestige,Jeddah,Genesis,Automatic,Other,Semi Full,2009,3.8,170,True
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Standard,2018,3.6,280,True
+Durango,Jeddah,Dodge,Automatic,Saudi,Standard,2012,5.7,275000,True
+Prado,Riyadh,Toyota,Automatic,Gulf Arabic,Semi Full,2014,3.0,232000,True
+ML,Arar,Mercedes,Automatic,Saudi,Full,1995,9.0,300000,True
+S,Riyadh,Mercedes,Automatic,Other,Full,2015,3.0,41305,True
+Pajero,Al-Ahsa,Mitsubishi,Automatic,Other,Semi Full,2015,3.5,153000,True
+Marquis,Jeddah,Ford,Automatic,Other,Full,2003,4.6,417000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2015,2.7,300841,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.1,158,True
+Yaris,Jeddah,Toyota,Automatic,Saudi,Standard,2019,1.5,38000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2013,5.4,305000,True
+Sorento,Dammam,Kia,Automatic,Saudi,Semi Full,2014,1.6,240000,True
+Datsun,Riyadh,Nissan,Automatic,Saudi,Standard,2009,1.8,440000,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,2002,5.7,270000,True
+Sportage,Makkah,Kia,Automatic,Saudi,Full,2016,2.4,193000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2020,2.7,54000,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2018,4.0,145,True
+EC8,Dammam,Geely,Manual,Saudi,Semi Full,2014,2.5,180000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Standard,2009,2.7,625538,True
+Explorer,Qassim,Ford,Automatic,Other,Semi Full,2014,3.5,185000,True
+Land Cruiser,Wadi Dawasir,Toyota,Automatic,Gulf Arabic,Full,2011,4.6,400,True
+H1,Riyadh,Hyundai,Automatic,Gulf Arabic,Semi Full,2012,1.6,252,True
+LX,Qassim,Lexus,Automatic,Saudi,Full,2015,5.7,123998,True
+Envoy,Dammam,GMC,Automatic,Other,Full,2002,3.5,123456,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2015,3.5,143,True
+Avalon,Qassim,Toyota,Automatic,Saudi,Semi Full,2007,3.5,500,True
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2009,9.0,440,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2018,2.7,13000,True
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2018,3.3,94000,True
+Charger,Qassim,Dodge,Automatic,Other,Full,2018,5.7,59000,True
+Accord,Hafar Al-Batin,Honda,Automatic,Saudi,Full,2016,2.8,240000,True
+Sonata,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2019,2.4,24000,True
+Sonata,Dammam,Hyundai,Automatic,Saudi,Full,2013,2.5,286000,True
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2014,5.0,125000,True
+LX,Riyadh,Lexus,Automatic,Other,Full,2020,5.7,68000,True
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2020,2.4,32000,True
+S,Dammam,Mercedes,Automatic,Other,Semi Full,2007,4.0,195657,True
+FJ,Qassim,Toyota,Automatic,Unknown,Full,2013,4.0,228000,True
+Tahoe,Jubail,Chevrolet,Automatic,Saudi,Full,2008,5.3,515984,True
+Suburban,Qassim,GMC,Automatic,Unknown,Semi Full,2000,5.3,205058,True
+Focus,Dammam,Ford,Automatic,Gulf Arabic,Standard,2014,1.6,107000,True
+6,Dammam,Mazda,Automatic,Saudi,Standard,2018,2.5,130000,True
+Land Cruiser 70,Aseer,Toyota,Manual,Gulf Arabic,Full,2016,4.5,127430,True
+Optra,Makkah,Chevrolet,Automatic,Saudi,Semi Full,2008,1.6,250000,True
+Cressida,Al-Namas,Toyota,Manual,Gulf Arabic,Semi Full,1995,2.4,585000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2013,2.5,185000,True
+Elantra,Taef,Hyundai,Automatic,Saudi,Standard,2016,2.0,230000,True
+S,Makkah,Mercedes,Automatic,Gulf Arabic,Full,2014,4.7,102000,True
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,3.6,16000,True
+L200,Al-Baha,Mitsubishi,Manual,Saudi,Semi Full,1992,2.0,219,True
+Range Rover,Abha,Land Rover,Automatic,Other,Full,2006,4.0,335000,True
+Datsun,Makkah,Nissan,Manual,Saudi,Full,2015,2.7,82000,True
+Azera,Al-Medina,Hyundai,Automatic,Saudi,Semi Full,2013,1.6,300,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2016,5.3,122000,True
+Land Cruiser,Makkah,Toyota,Automatic,Saudi,Semi Full,2003,4.6,600,True
+VTC,Dammam,Nissan,Automatic,Saudi,Full,2019,4.5,62000,True
+Durango,Riyadh,Dodge,Automatic,Saudi,Semi Full,2013,5.7,340000,True
+Grand Cherokee,Al-Medina,Jeep,Automatic,Saudi,Full,2013,8.0,170000,True
+Camry,Riyadh,Toyota,Automatic,Other,Full,2015,4.0,130,True
+Yukon,Taef,GMC,Automatic,Saudi,Full,2008,6.2,255,True
+Yaris,Jazan,Toyota,Manual,Saudi,Standard,2015,1.3,152000,True
+Yukon,Jeddah,GMC,Automatic,Saudi,Full,2006,5.3,257274,True
+Innova,Dammam,Toyota,Automatic,Saudi,Full,2015,2.7,214000,True
+Echo Sport,Riyadh,Ford,Automatic,Saudi,Standard,2015,1.5,126700,True
+Corolla,Riyadh,Toyota,Automatic,Saudi,Full,2020,1.6,60000,True
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2014,2.0,173000,True
+S,Dammam,Mercedes,Automatic,Other,Full,2007,4.0,146000,True
+VTC,Al-Ahsa,Nissan,Automatic,Saudi,Standard,2007,4.8,430550,True
+Prado,Hafar Al-Batin,Toyota,Automatic,Saudi,Semi Full,2017,4.0,223000,True
+Acadia,Jeddah,GMC,Automatic,Saudi,Semi Full,2014,3.6,226000,True
+Furniture,Hafar Al-Batin,Toyota,Automatic,Saudi,Full,2018,2.7,120000,True
+Victoria,Riyadh,Ford,Automatic,Other,Full,2011,5.0,300000,True
+Tahoe,Jeddah,Chevrolet,Automatic,Other,Full,2016,4.0,208000,True
+Expedition,Al-Jouf,Ford,Automatic,Other,Full,2006,5.4,341,True
+The 7,Jeddah,BMW,Automatic,Saudi,Full,2003,2.0,300,True
+Durango,Al-Medina,Dodge,Automatic,Saudi,Standard,2019,5.7,55000,True
+Rav4,Riyadh,Toyota,Automatic,Other,Standard,2015,2.5,126,True
+Hilux,Abha,Toyota,Manual,Saudi,Semi Full,2006,2.7,500,True
+Ranger,Qassim,Ford,Automatic,Saudi,Semi Full,2019,3.2,5064,True
+Rio,Khobar,Kia,Automatic,Saudi,Full,2015,1.4,117000,True
+Yukon,Al-Medina,GMC,Automatic,Saudi,Standard,2015,4.0,124000,True
+FJ,Riyadh,Toyota,Manual,Other,Standard,2011,4.0,287,True
+Hilux,Dammam,Toyota,Manual,Saudi,Semi Full,2016,2.7,260000,True
+Corolla,Tabouk,Toyota,Automatic,Saudi,Semi Full,2013,1.6,217562,True
+Cayenne S,Riyadh,Porsche,Automatic,Gulf Arabic,Full,2008,4.8,172000,True
+Pajero,Al-Ahsa,Mitsubishi,Automatic,Saudi,Standard,2015,3.8,280000,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Semi Full,2017,2.5,135,True
+Caprice,Yanbu,Chevrolet,Automatic,Saudi,Standard,2009,6.0,270000,True
+LS,Riyadh,Lexus,Automatic,Saudi,Full,2008,4.6,280,True
+Flex,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,3.5,190000,True
+H6,Riyadh,HAVAL,Automatic,Saudi,Full,2020,2.0,50500,True
+G,Riyadh,INFINITI,Automatic,Saudi,Full,2007,6.0,200000,True
+Yukon,Hail,GMC,Automatic,Saudi,Full,2010,6.2,556000,True
+Tahoe,Jubail,Chevrolet,Automatic,Saudi,Semi Full,2015,5.3,237,True
+Cerato,Riyadh,Kia,Automatic,Saudi,Standard,2016,1.6,91000,True
+Land Cruiser Pickup,Qassim,Toyota,Manual,Gulf Arabic,Semi Full,2012,4.0,300,True
+Yukon,Taef,GMC,Automatic,Saudi,Semi Full,2014,5.3,49000,True
+Camry,Dammam,Toyota,Automatic,Saudi,Full,2015,2.5,297,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,2007,5.3,368000,True
+Other,Riyadh,Other,Automatic,Saudi,Full,2009,2.4,218000,True
+Rush,Riyadh,Toyota,Automatic,Saudi,Full,2019,1.5,69000,True
+Suburban,Taef,GMC,Automatic,Saudi,Standard,2001,1.5,718314,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2015,5.3,132800,True
+Corolla,Dammam,Toyota,Automatic,Saudi,Standard,2018,1.6,106000,True
+Maxima,Jeddah,Nissan,Manual,Saudi,Standard,2002,3.0,265000,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Full,2008,5.3,500000,True
+Ranger,Riyadh,Ford,Manual,Saudi,Semi Full,2016,2.5,121800,True
+Suburban,Dammam,Chevrolet,Automatic,Saudi,Semi Full,1997,1.5,2149656,True
+Echo,Riyadh,Toyota,Manual,Saudi,Standard,2004,1.6,400000,True
+Land Cruiser,Riyadh,Toyota,Manual,Gulf Arabic,Semi Full,2007,4.6,10000,True
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Standard,2012,3.6,217,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.4,82000,True
+Koranado,Riyadh,SsangYong,Automatic,Gulf Arabic,Semi Full,2013,2.0,157,True
+Sunny,Riyadh,Nissan,Automatic,Saudi,Semi Full,2019,1.5,89300,True
+Hiace,Al-Ahsa,Toyota,Manual,Saudi,Standard,2010,2.7,300,True
+LX,Qassim,Lexus,Automatic,Saudi,Full,2021,5.7,457,True
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2020,2.4,52000,True
+Camry,Jubail,Toyota,Automatic,Saudi,Full,2016,2.5,317250,True
+Symbol,Riyadh,Renault,Automatic,Other,Standard,2017,1.6,48000,True
+Yukon,Najran,GMC,Automatic,Saudi,Standard,2014,5.3,256000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2016,3.5,135,True
+Grand Marquis,Qurayyat,Mercury,Automatic,Saudi,Semi Full,2005,4.6,360,True
+Crown,Dammam,Toyota,Manual,Saudi,Standard,1990,2.8,187000,True
+Wrangler,Makkah,Jeep,Automatic,Saudi,Full,2016,3.6,172000,True
+Accent,Jubail,Hyundai,Automatic,Unknown,Standard,2018,1.4,143000,True
+ِACTIS V80,Riyadh,FAW,Manual,Saudi,Standard,2016,2.0,92000,True
+Explorer,Aseer,Ford,Automatic,Saudi,Standard,2010,6.0,389160,True
+Range Rover,Riyadh,Land Rover,Automatic,Gulf Arabic,Semi Full,2014,5.0,59934,True
+Sentra,Al-Medina,Nissan,Automatic,Saudi,Semi Full,2020,1.6,96000,True
+The 7,Qassim,BMW,Automatic,Saudi,Standard,2010,2.0,290,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2013,5.3,111500,True
+Suburban,Taef,GMC,Automatic,Saudi,Semi Full,2006,4.2,129000,True
+Yukon,Al-Medina,GMC,Automatic,Saudi,Standard,2014,5.3,270000,True
+Land Cruiser,Jazan,Toyota,Automatic,Gulf Arabic,Full,2019,4.6,67000,True
+LX,Dammam,Lexus,Automatic,Saudi,Semi Full,2010,5.7,301000,True
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Full,2019,3.5,70500,True
+CLS,Riyadh,Mercedes,Automatic,Unknown,Full,2019,3.5,94000,True
+Silverado,Al-Ahsa,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,170000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2020,4.6,21000,True
+Edge,Qassim,Ford,Automatic,Saudi,Standard,2008,3.5,380,True
+Hiace,Jeddah,Toyota,Manual,Saudi,Semi Full,2012,2.7,350,True
+ES,Khobar,Lexus,Automatic,Saudi,Full,2021,2.5,4000,True
+Pajero,Qassim,Mitsubishi,Manual,Saudi,Semi Full,2007,3.8,300,True
+GS,Jazan,Lexus,Automatic,Gulf Arabic,Full,2008,4.3,216000,True
+CS95,Hail,Changan,Automatic,Saudi,Full,2021,2.0,40000,True
+ES,Aseer,Lexus,Automatic,Other,Full,2013,3.5,180,True
+A6,Al-Medina,Audi,Automatic,Gulf Arabic,Full,2015,2.3,120000,True
+Datsun,Riyadh,Nissan,Manual,Other,Standard,2014,2.4,247,True
+H1,Dammam,Hyundai,Automatic,Saudi,Semi Full,2018,2.4,160,True
+Land Cruiser 70,Hail,Toyota,Manual,Saudi,Semi Full,2018,4.0,45497,True
+Suburban,Al-Ahsa,Chevrolet,Automatic,Saudi,Semi Full,1999,8.0,400000,True
+Sunny,Riyadh,Nissan,Automatic,Saudi,Standard,2018,1.5,78000,True
+FJ,Dammam,Toyota,Manual,Saudi,Standard,2014,2.7,210000,True
+3,Riyadh,Mazda,Automatic,Saudi,Standard,2016,1.6,217000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2014,4.6,250000,True
+Sonata,Riyadh,Hyundai,Manual,Other,Standard,2006,2.4,250,True
+The 7,Makkah,BMW,Automatic,Saudi,Full,2014,2.0,138100,True
+Opirus,Dammam,Kia,Automatic,Saudi,Semi Full,2008,3.8,271540,True
+Altima,Dammam,Nissan,Manual,Other,Full,1994,2.5,300000,True
+Dokker,Riyadh,Renault,Manual,Saudi,Standard,2019,1.6,90000,True
+Senta fe,Jeddah,Hyundai,Automatic,Saudi,Semi Full,2019,2.4,42000,True
+Camry,Al-Medina,Toyota,Manual,Saudi,Full,2017,2.4,87000,True
+Yukon,Aseer,GMC,Automatic,Saudi,Semi Full,2008,5.3,450000,True
+C,Riyadh,Mercedes,Automatic,Saudi,Full,2015,2.0,110000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Semi Full,2010,6.0,600000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Standard,2004,2.7,237600,True
+ML,Makkah,Mercedes,Automatic,Saudi,Full,2010,5.0,104000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2011,5.4,212000,True
+Pathfinder,Riyadh,Nissan,Automatic,Saudi,Standard,2020,3.5,7000,True
+H3,Riyadh,Hummer,Automatic,Saudi,Full,2006,3.5,450000,True
+A8,Riyadh,Audi,Automatic,Other,Full,2012,3.0,68000,True
+Tahoe,Makkah,Chevrolet,Automatic,Other,Semi Full,2013,1.4,378000,True
+Land Cruiser 70,Riyadh,Toyota,Manual,Saudi,Full,2015,4.0,186000,True
+E,Makkah,Mercedes,Automatic,Saudi,Full,2017,3.0,30000,True
+S,Jeddah,Mercedes,Automatic,Saudi,Full,2009,5.0,102000,True
+F150,Al-Ahsa,Ford,Automatic,Other,Standard,2014,5.0,300000,True
+Land Cruiser,Abha,Toyota,Manual,Gulf Arabic,Semi Full,2008,4.6,260,True
+Accord,Riyadh,Honda,Automatic,Saudi,Full,2008,1.0,400000,True
+Patrol,Riyadh,Nissan,Automatic,Unknown,Full,2008,4.0,44000,True
+Land Cruiser,Jazan,Toyota,Automatic,Gulf Arabic,Full,2021,4.6,2000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2015,3.5,199,True
+H1,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2012,2.4,10700,True
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2013,5.7,216000,True
+Pajero,Riyadh,Mitsubishi,Manual,Other,Standard,2003,3.5,137000,True
+Other,Taef,Ford,Manual,Saudi,Standard,2015,1.0,19047,True
+Optima,Hail,Kia,Automatic,Other,Semi Full,2014,2.4,170,True
+Symbol,Dammam,Renault,Automatic,Saudi,Standard,2020,1.6,37600,True
+Optima,Jubail,Kia,Automatic,Saudi,Semi Full,2020,2.4,69000,True
+Accent,Riyadh,Hyundai,Manual,Saudi,Standard,2012,1.6,279000,True
+Beetle,Qassim,Volkswagen,Automatic,Gulf Arabic,Full,2015,2.0,113,True
+Elantra,Aseer,Hyundai,Manual,Gulf Arabic,Standard,2014,1.6,46000,True
+Hilux,Wadi Dawasir,Toyota,Manual,Saudi,Full,2012,2.7,219520,True
+Furniture,Dammam,Toyota,Automatic,Saudi,Semi Full,2014,2.7,169000,True
+Taurus,Dammam,Ford,Automatic,Saudi,Standard,2016,2.0,29000,True
+A8,Dammam,Audi,Automatic,Saudi,Full,2016,6.3,62000,True
+MKX,Riyadh,Lincoln,Automatic,Saudi,Full,2011,3.5,240000,True
+D'max,Jeddah,Suzuki,Manual,Saudi,Standard,2013,1.1,339000,True
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Semi Full,2016,4.0,165684,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Full,2003,2.5,600000,True
+LX,Qassim,Lexus,Automatic,Saudi,Full,2018,5.7,100000,True
+Hilux,Qassim,Toyota,Automatic,Gulf Arabic,Semi Full,2014,2.7,249000,True
+Land Cruiser,Tabouk,Toyota,Automatic,Saudi,Full,2016,4.8,70000,True
+Pathfinder,Riyadh,Nissan,Manual,Saudi,Standard,2002,3.3,470,True
+Fusion,Dammam,Ford,Automatic,Gulf Arabic,Standard,2014,2.5,283000,True
+Expedition,Riyadh,Ford,Automatic,Gulf Arabic,Standard,2007,5.3,315,True
+CX9,Al-Medina,Mazda,Automatic,Saudi,Standard,2021,2.5,3800,True
+Pajero,Qassim,Mitsubishi,Automatic,Gulf Arabic,Semi Full,2017,3.2,122000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Standard,2012,4.0,373000,True
+Malibu,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2016,2.5,78000,True
+H1,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,2.4,283100,True
+Ranger,Riyadh,Ford,Manual,Other,Full,2015,1.5,7000,True
+Land Cruiser,Aseer,Toyota,Manual,Saudi,Semi Full,2003,4.6,495000,True
+Ram,Jeddah,Dodge,Automatic,Saudi,Full,2019,5.7,45000,True
+Delta,Al-Ahsa,Daihatsu,Manual,Saudi,Standard,2013,3.7,100000,True
+Sentra,Jeddah,Nissan,Automatic,Saudi,Standard,2020,1.6,25000,True
+Echo,Jeddah,Toyota,Manual,Other,Standard,2004,1.5,488000,True
+Elantra,Riyadh,Hyundai,Manual,Saudi,Standard,2001,1.6,372,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Standard,2016,5.4,50000,True
+Avalon,Riyadh,Toyota,Automatic,Saudi,Full,2020,3.5,31124,True
+H1,Al-Jouf,Hyundai,Manual,Gulf Arabic,Full,2015,4.5,105000,True
+Furniture,Khobar,Toyota,Automatic,Saudi,Full,2014,1.5,265560,True
+Ciocca,Qurayyat,Toyota,Automatic,Saudi,Standard,2016,5.7,207382,True
+Cadenza,Jeddah,Kia,Automatic,Saudi,Semi Full,2015,3.3,160000,True
+C300,Riyadh,Chrysler,Automatic,Saudi,Semi Full,2015,5.7,74000,True
+Pajero,Riyadh,Mitsubishi,Automatic,Gulf Arabic,Full,2016,3.5,70000,True
+E,Riyadh,Mercedes,Automatic,Other,Standard,2019,2.0,28000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2015,6.2,48000,True
+Grand Cherokee,Riyadh,Jeep,Automatic,Saudi,Full,2018,3.6,61000,True
+Sonata,Hail,Hyundai,Automatic,Other,Standard,2015,1.0,93647,True
+ZS,Taef,MG,Automatic,Saudi,Standard,2020,1.5,9300,True
+Yaris,Makkah,Toyota,Automatic,Saudi,Full,2015,1.5,163,True
+Avanza,Al-Baha,Toyota,Automatic,Saudi,Semi Full,2017,1.6,38500,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2008,5.3,160000,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Full,2016,2.0,111000,True
+Land Cruiser,Jazan,Toyota,Automatic,Saudi,Full,2002,4.6,4000,True
+500,Riyadh,Fiat,Automatic,Saudi,Full,2021,1.4,800,True
+Datsun,Al-Ahsa,Nissan,Manual,Saudi,Full,2016,2.4,121122,True
+Accent,Riyadh,Hyundai,Automatic,Other,Semi Full,2010,1.6,240,True
+Hilux,Najran,Toyota,Manual,Saudi,Full,2014,2.7,299,True
+Optima,Hafar Al-Batin,Kia,Automatic,Other,Semi Full,2009,2.4,183,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2016,4.6,152000,True
+Victoria,Taef,Ford,Automatic,Other,Semi Full,2011,4.6,190000,True
+Land Cruiser Pickup,Aseer,Toyota,Manual,Unknown,Full,2013,4.0,270000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Standard,2015,3.5,91000,True
+Marquis,Al-Baha,Ford,Automatic,Saudi,Standard,2003,4.6,450000,True
+Civic,Al-Ahsa,Honda,Automatic,Saudi,Full,2020,1.6,60000,True
+Caprice,Tabouk,Chevrolet,Automatic,Saudi,Standard,2006,3.8,25000,True
+Tahoe,Arar,Chevrolet,Automatic,Saudi,Standard,2020,5.3,26500,True
+Optima,Khobar,Kia,Automatic,Gulf Arabic,Standard,2020,2.4,73000,True
+Land Cruiser,Besha,Toyota,Automatic,Saudi,Full,2019,4.6,32000,True
+Camry,Qassim,Toyota,Manual,Saudi,Semi Full,2001,1.4,500,True
+Hilux,Tabouk,Toyota,Manual,Saudi,Full,2018,2.7,220000,True
+Camry,Riyadh,Toyota,Manual,Other,Standard,2003,2.5,100000,True
+Dyna,Dammam,Isuzu,Manual,Saudi,Standard,2016,3.0,101000,True
+Land Cruiser Pickup,Tabouk,Toyota,Manual,Gulf Arabic,Semi Full,2015,4.0,66000,True
+3,Riyadh,Mazda,Automatic,Other,Standard,2015,1.6,225749,True
+Victoria,Riyadh,Ford,Automatic,Other,Full,1999,4.6,300000,True
+CLA,Jeddah,Mercedes,Automatic,Saudi,Full,2017,3.0,90000,True
+Odyssey,Riyadh,Honda,Automatic,Saudi,Standard,2016,3.5,166000,True
+Tahoe,Khobar,Chevrolet,Automatic,Saudi,Semi Full,2015,5.3,185000,True
+Marquis,Aseer,Ford,Automatic,Other,Full,2008,2.0,456300,True
+Azera,Qassim,Hyundai,Automatic,Saudi,Semi Full,2018,3.5,90000,True
+Odyssey,Jeddah,Honda,Automatic,Saudi,Full,1999,2.5,300000,True
+Fusion,Dammam,Ford,Automatic,Saudi,Semi Full,2016,2.5,2000,True
+CS95,Dammam,Changan,Automatic,Saudi,Semi Full,2020,2.0,22058,True
+Sonata,Riyadh,Hyundai,Automatic,Other,Semi Full,2016,2.2,165,True
+Land Cruiser,Hafar Al-Batin,Toyota,Automatic,Saudi,Full,2019,4.6,35000,True
+Taurus,Al-Medina,Ford,Automatic,Saudi,Full,2017,3.5,147000,True
+SRT,Riyadh,Chrysler,Automatic,Other,Full,2012,1.9,237,True
+Suburban,Makkah,Chevrolet,Automatic,Saudi,Standard,2015,1.6,248,True
+Taurus,Jeddah,Ford,Automatic,Other,Semi Full,2016,3.2,108000,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Semi Full,2009,3.5,270000,True
+ES,Hail,Lexus,Automatic,Gulf Arabic,Full,2002,3.5,428000,True
+ES,Riyadh,Lexus,Automatic,Saudi,Standard,2021,3.5,7050,True
+Traverse,Riyadh,Chevrolet,Automatic,Saudi,Standard,2012,3.6,180000,True
+Suburban,Aseer,GMC,Automatic,Saudi,Full,1990,5.3,227,True
+Yukon,Dammam,GMC,Automatic,Saudi,Standard,2012,5.3,273000,True
+Charger,Riyadh,Dodge,Automatic,Saudi,Full,2016,3.6,43000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Full,2017,4.0,95000,True
+Hilux,Al-Ahsa,Toyota,Manual,Other,Semi Full,2014,2.7,240000,True
+Range Rover,Dammam,Land Rover,Automatic,Saudi,Standard,2020,5.0,42000,True
+Corolla,Taef,Toyota,Manual,Saudi,Standard,2013,1.6,277000,True
+Nexon,Jeddah,Tata,Manual,Saudi,Standard,2016,2.2,256000,True
+Sierra,Dammam,GMC,Automatic,Saudi,Full,2017,5.3,245000,True
+ES,Qassim,Lexus,Automatic,Gulf Arabic,Full,2018,3.5,64000,True
+Hilux,Besha,Toyota,Manual,Gulf Arabic,Semi Full,2016,2.7,320,True
+Datsun,Hail,Nissan,Manual,Gulf Arabic,Semi Full,1993,2.4,533000,True
+Caprice,Jeddah,Chevrolet,Automatic,Saudi,Standard,2015,6.0,262,True
+Camry,Jeddah,Toyota,Automatic,Other,Full,2000,3.0,169,True
+Optima,Riyadh,Kia,Automatic,Saudi,Semi Full,2014,2.0,138000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Full,2014,1.0,118,True
+Seven,Al-Ahsa,Changan,Automatic,Saudi,Standard,2022,1.5,460,True
+Camry,Al-Ahsa,Toyota,Manual,Saudi,Standard,2002,2.5,239259,True
+Land Cruiser,Abha,Toyota,Automatic,Saudi,Semi Full,2006,4.5,69000,True
+Suburban,Riyadh,GMC,Automatic,Saudi,Standard,2003,5.3,472000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2011,6.2,328000,True
+Coupe,Riyadh,Hyundai,Automatic,Saudi,Full,2014,3.8,127000,True
+Sportage,Makkah,Kia,Automatic,Saudi,Standard,2019,2.0,93000,True
+Land Cruiser,Dammam,Toyota,Automatic,Gulf Arabic,Full,2013,8.0,200000,True
+Hilux,Al-Medina,Toyota,Manual,Saudi,Full,2016,1.1,179,True
+Explorer,Riyadh,Ford,Automatic,Other,Semi Full,2010,3.5,390000,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2021,4.0,23000,True
+Charger,Riyadh,Dodge,Automatic,Saudi,Full,2013,3.6,400,True
+Grand Cherokee,Jeddah,Jeep,Automatic,Saudi,Semi Full,2021,5.7,100,True
+Camry,Riyadh,Toyota,Manual,Saudi,Standard,2011,2.5,200000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2013,1.5,216,True
+Patrol,Riyadh,Nissan,Manual,Saudi,Standard,2007,4.5,450,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Semi Full,2008,4.0,210000,True
+Yukon,Jeddah,GMC,Automatic,Saudi,Standard,2011,5.3,188000,True
+Yukon,Aseer,GMC,Automatic,Saudi,Full,2020,5.3,19400,True
+FJ,Jeddah,Toyota,Automatic,Saudi,Full,2016,4.0,138000,True
+E,Riyadh,Mercedes,Automatic,Saudi,Standard,2014,2.0,145000,True
+Pathfinder,Qassim,Nissan,Automatic,Saudi,Standard,2014,3.5,111000,True
+Hilux,Dammam,Toyota,Manual,Gulf Arabic,Semi Full,2017,2.7,189000,True
+Sentra,Al-Medina,Nissan,Automatic,Saudi,Semi Full,2016,1.6,200000,True
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2009,5.3,272000,True
+Marquis,Jeddah,Ford,Automatic,Other,Full,2007,4.6,300,True
+FJ,Al-Baha,Toyota,Manual,Gulf Arabic,Full,2014,4.0,208,True
+Land Cruiser,Al-Ahsa,Toyota,Manual,Gulf Arabic,Full,2006,4.6,38000,True
+RX,Jeddah,Lexus,Automatic,Gulf Arabic,Full,2002,3.5,333,True
+Land Cruiser,Al-Jouf,Toyota,Automatic,Saudi,Full,2016,5.7,212000,True
+Land Cruiser,Najran,Toyota,Automatic,Gulf Arabic,Full,2013,4.6,260,True
+Mohave,Riyadh,Kia,Automatic,Other,Semi Full,2017,3.7,75000,True
+FJ,Abha,Toyota,Automatic,Saudi,Standard,2009,4.0,390000,True
+Edge,Riyadh,Ford,Automatic,Other,Standard,2013,3.5,276,True
+CX5,Jeddah,Mazda,Manual,Saudi,Full,2017,2.5,130,True
+Explorer,Al-Baha,Ford,Automatic,Other,Semi Full,2010,1.6,3275230,True
+Land Cruiser,Riyadh,Toyota,Automatic,Other,Full,2020,4.0,20000,True
+Taurus,Al-Medina,Ford,Automatic,Saudi,Standard,2017,2.3,45000,True
+Furniture,Jeddah,Toyota,Automatic,Saudi,Semi Full,2017,2.7,24000,True
+Mohave,Riyadh,Kia,Automatic,Other,Full,2015,3.8,316884,True
+Taurus,Makkah,Ford,Automatic,Other,Standard,2010,2.9,2200,True
+Suburban,Taef,GMC,Automatic,Saudi,Standard,2013,5.3,180000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2015,1.4,270000,True
+Suburban,Riyadh,Chevrolet,Automatic,Other,Semi Full,1999,9.0,200000,True
+POS24,Taef,Mercedes,Manual,Other,Standard,1982,8.0,1000,True
+Land Cruiser 70,Al-Medina,Toyota,Manual,Other,Full,2018,4.0,189,True
+Sonata,Jeddah,Hyundai,Automatic,Other,Semi Full,2015,3.3,156500,True
+Furniture,Tabouk,Toyota,Automatic,Saudi,Semi Full,2018,2.7,30000,True
+Rav4,Jeddah,Toyota,Automatic,Saudi,Standard,2016,2.5,152000,True
+Yukon,Dammam,GMC,Automatic,Saudi,Semi Full,2012,5.3,267,True
+Other,Aseer,Honda,Manual,Other,Full,1985,1.0,20000,True
+Acadia,Makkah,GMC,Automatic,Other,Semi Full,2008,1.6,27000,True
+Senta fe,Najran,Hyundai,Automatic,Saudi,Full,2009,3.3,280000,True
+Navara,Dammam,Nissan,Manual,Saudi,Standard,2016,2.5,86000,True
+Taurus,Aseer,Ford,Automatic,Saudi,Standard,2017,3.5,80000,True
+A7,Riyadh,Audi,Automatic,Saudi,Full,2014,2.8,182000,True
+Town Car,Taef,Lincoln,Automatic,Other,Semi Full,2011,4.6,96162,True
+Taurus,Aseer,Ford,Automatic,Saudi,Semi Full,2015,8.0,219819,True
+Camry,Jeddah,Toyota,Automatic,Saudi,Standard,2016,2.5,149818,True
+Elantra,Jazan,Hyundai,Manual,Saudi,Semi Full,2008,2.0,400,True
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2016,2.5,127500,True
+Flex,Riyadh,Ford,Automatic,Other,Full,2014,3.5,173000,True
+Hilux,Dammam,Toyota,Automatic,Gulf Arabic,Semi Full,2016,2.7,93000,True
+Innova,Riyadh,Toyota,Automatic,Other,Full,2014,2.7,205,True
+Hilux,Taef,Toyota,Manual,Saudi,Full,2017,2.7,162,True
+Durango,Al-Medina,Dodge,Automatic,Saudi,Semi Full,2013,8.7,280,True
+Discovery,Jeddah,Land Rover,Automatic,Saudi,Full,2016,2.2,133,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2009,5.7,323000,True
+ES,Al-Medina,Lexus,Automatic,Saudi,Full,2017,3.4,128000,True
+Navara,Riyadh,Nissan,Automatic,Saudi,Standard,2012,2.5,193,True
+F150,Dammam,Ford,Automatic,Other,Full,2014,6.2,126000,True
+Armada,Riyadh,Nissan,Automatic,Other,Full,2010,5.6,300000,True
+Sonata,Tabouk,Hyundai,Automatic,Other,Full,2015,2.0,120,True
+Hilux,Riyadh,Toyota,Manual,Gulf Arabic,Full,2015,2.7,340000,True
+Tahoe,Yanbu,Chevrolet,Automatic,Saudi,Semi Full,2013,5.3,372,True
+LX,Qassim,Lexus,Automatic,Saudi,Full,2021,5.7,100,True
+Sonata,Qurayyat,Hyundai,Automatic,Other,Full,2015,2.4,72000,True
+Camry,Qassim,Toyota,Automatic,Other,Full,2019,3.6,70000,True
+Caprice,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2013,6.0,270000,True
+Cressida,Riyadh,Toyota,Manual,Saudi,Standard,1991,1.4,520000,True
+Tahoe,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2014,5.3,500000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2019,2.7,55000,True
+Furniture,Hail,Toyota,Manual,Saudi,Standard,2015,2.7,200000,True
+Range Rover,Riyadh,Land Rover,Automatic,Saudi,Full,2005,4.0,24200,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Standard,2003,5.3,500000,True
+Durango,Jubail,Dodge,Automatic,Saudi,Standard,2014,3.6,238,True
+LS,Riyadh,Lexus,Manual,Saudi,Full,2006,1.0,350,True
+CX9,Qassim,Mazda,Automatic,Gulf Arabic,Full,2016,2.5,130000,True
+Marquis,Najran,Ford,Automatic,Other,Full,2008,4.6,500,True
+Patrol,Hail,Nissan,Manual,Other,Standard,2015,4.0,335000,True
+H9,Riyadh,HAVAL,Automatic,Saudi,Full,2021,2.0,600,True
+X-Trail,Dammam,Nissan,Automatic,Saudi,Standard,2017,2.5,57000,True
+Taurus,Riyadh,Ford,Automatic,Saudi,Semi Full,2014,3.5,300,True
+Seven,Riyadh,Changan,Automatic,Saudi,Standard,2021,1.5,9500,True
+A4,Dammam,Audi,Automatic,Gulf Arabic,Full,2014,2.0,324000,True
+FJ,Najran,Toyota,Automatic,Gulf Arabic,Full,2015,4.0,337243,True
+CS75,Dammam,Changan,Automatic,Saudi,Full,2020,1.8,62000,True
+Azera,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2018,3.5,210,True
+GS,Abha,Geely,Automatic,Saudi,Full,2016,2.4,163000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2016,2.7,274634,True
+Hilux,Jubail,Toyota,Manual,Saudi,Semi Full,2020,2.7,17800,True
+Explorer,Jazan,Ford,Automatic,Other,Full,2006,3.5,280,True
+Victoria,Aseer,Ford,Automatic,Other,Semi Full,1999,4.6,391047,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2015,5.3,182600,True
+Land Cruiser,Dammam,Toyota,Automatic,Saudi,Full,2016,4.6,167643,True
+Patrol,Riyadh,Nissan,Manual,Saudi,Semi Full,1997,4.0,85000,True
+Corolla,Al-Ahsa,Toyota,Automatic,Saudi,Semi Full,2008,1.6,262817,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Full,2012,5.4,176,True
+D-MAX,Qassim,Isuzu,Manual,Saudi,Standard,2017,2.5,171461,True
+Senta fe,Dammam,Hyundai,Automatic,Saudi,Full,2016,3.3,295000,True
+Hiace,Riyadh,Toyota,Manual,Saudi,Standard,2013,2.7,300000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2017,5.3,20000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2017,1.4,130000,True
+Furniture,Al-Medina,Toyota,Automatic,Saudi,Standard,2009,1.6,400,True
+H3,Riyadh,Hummer,Automatic,Saudi,Full,2007,3.5,411000,True
+G80,Riyadh,Genesis,Automatic,Saudi,Full,2018,5.0,91000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2016,2.4,284,True
+Elantra,Besha,Hyundai,Automatic,Other,Full,2016,2.0,309000,True
+CX9,Jeddah,Mazda,Automatic,Saudi,Full,2019,2.5,52000,True
+Land Cruiser,Hafar Al-Batin,Toyota,Automatic,Saudi,Full,2017,4.6,130000,True
+Avalon,Riyadh,Toyota,Automatic,Other,Full,2008,3.5,169000,True
+SL,Riyadh,Mercedes,Automatic,Other,Standard,1997,1.0,400000,True
+Marquis,Riyadh,Ford,Automatic,Other,Full,2006,1.0,25000,True
+S,Jeddah,Mercedes,Automatic,Saudi,Standard,2015,5.0,39000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2008,5.4,345000,True
+Accent,Riyadh,Hyundai,Manual,Saudi,Standard,2011,1.6,317135,True
+Yukon,Al-Medina,GMC,Automatic,Saudi,Standard,2016,4.0,75000,True
+Land Cruiser Pickup,Al-Baha,Toyota,Manual,Other,Standard,1980,4.0,44000,True
+RX,Jeddah,Lexus,Automatic,Saudi,Full,2003,3.5,270,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2014,6.0,195,True
+Pathfinder,Riyadh,Nissan,Manual,Saudi,Full,2005,3.5,317000,True
+D-MAX,Aseer,Isuzu,Manual,Saudi,Semi Full,2014,3.0,177,True
+Cayenne,Dammam,Porsche,Automatic,Gulf Arabic,Full,2009,4.8,3000000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2017,2.5,27000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Full,2016,2.4,88089,True
+Suburban,Riyadh,GMC,Automatic,Saudi,Semi Full,2005,8.0,4010000,True
+Optima,Tabouk,Kia,Automatic,Saudi,Semi Full,2018,2.4,187000,True
+Corolla,Jeddah,Toyota,Automatic,Saudi,Standard,2020,1.6,47002,True
+Patrol,Makkah,Nissan,Manual,Saudi,Standard,2000,4.0,350000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2017,5.3,139000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2016,5.7,64731,True
+Camry,Al-Medina,Toyota,Automatic,Saudi,Full,2016,2.2,169000,True
+E,Riyadh,Mercedes,Automatic,Other,Full,2016,3.5,120000,True
+Prado,Riyadh,Toyota,Automatic,Saudi,Semi Full,2019,4.0,35900,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2011,1.0,400,True
+Optima,Riyadh,Kia,Automatic,Saudi,Standard,2014,2.4,30000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.0,233000,True
+Cadenza,Dammam,Kia,Automatic,Saudi,Semi Full,2019,3.0,128000,True
+Pathfinder,Riyadh,Nissan,Automatic,Gulf Arabic,Semi Full,2014,4.0,208000,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,2.0,94000,True
+Yukon,Taef,GMC,Automatic,Other,Full,2002,5.7,198,True
+Furniture,Jazan,Toyota,Automatic,Saudi,Full,2015,4.0,250000,True
+ES,Makkah,Lexus,Automatic,Saudi,Standard,2020,2.5,10000,True
+Cadenza,Riyadh,Kia,Automatic,Saudi,Standard,2017,3.3,106240,True
+Patrol,Riyadh,Nissan,Automatic,Saudi,Full,2019,4.0,77000,True
+Rio,Qassim,Kia,Automatic,Saudi,Semi Full,2015,1.4,220000,True
+Cerato,Jeddah,Kia,Automatic,Saudi,Semi Full,2019,1.6,68200,True
+Land Cruiser,Tabouk,Toyota,Automatic,Saudi,Full,2003,4.5,294000,True
+Sonata,Abha,Hyundai,Automatic,Saudi,Semi Full,2012,2.4,25000,True
+6,Riyadh,Mazda,Automatic,Saudi,Standard,2017,2.5,77900,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Full,2015,2.7,338,True
+Flex,Riyadh,Ford,Automatic,Saudi,Full,2015,6.0,127000,True
+Innova,Qassim,Toyota,Automatic,Saudi,Semi Full,2015,2.7,270000,True
+Accent,Jeddah,Hyundai,Automatic,Saudi,Standard,2014,1.5,230000,True
+The 7,Riyadh,BMW,Automatic,Saudi,Full,2014,2.0,113000,True
+Corolla,Jazan,Toyota,Automatic,Saudi,Standard,2010,2.0,25000,True
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2011,4.6,360000,True
+Camry,Khobar,Toyota,Automatic,Other,Semi Full,2000,2.5,300000,True
+Sentra,Qassim,Nissan,Automatic,Gulf Arabic,Standard,2016,1.6,98496,True
+Wrangler,Riyadh,Jeep,Automatic,Saudi,Standard,2014,3.6,77000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2015,5.2,131000,True
+Other,Dammam,Suzuki,Manual,Saudi,Standard,2007,1.0,89000,True
+Colorado,Hail,Chevrolet,Automatic,Gulf Arabic,Full,2013,3.6,300000,True
+Elantra,Jeddah,Hyundai,Automatic,Saudi,Full,2016,2.0,112,True
+Ciocca,Hail,Toyota,Automatic,Saudi,Semi Full,2012,8.0,28000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Semi Full,2015,2.4,300,True
+Land Cruiser,Aseer,Toyota,Manual,Gulf Arabic,Semi Full,1989,4.6,600000,True
+Charger,Jeddah,Dodge,Automatic,Saudi,Full,2012,5.7,223650,True
+Suburban,Qurayyat,Chevrolet,Automatic,Saudi,Semi Full,2000,1.5,50000,True
+Marquis,Dammam,Ford,Automatic,Other,Semi Full,2010,4.6,390000,True
+Eado,Dammam,Changan,Automatic,Saudi,Full,2017,1.6,105000,True
+Kaptiva,Riyadh,Chevrolet,Automatic,Gulf Arabic,Semi Full,2013,2.4,195000,True
+Patrol,Qassim,Nissan,Automatic,Saudi,Full,2010,5.6,254000,True
+Innova,Riyadh,Toyota,Automatic,Saudi,Semi Full,2014,2.7,556809,True
+Dyna,Jazan,Isuzu,Manual,Saudi,Standard,2003,3.0,460000,True
+Land Cruiser,Hail,Toyota,Manual,Saudi,Semi Full,2001,4.6,300,True
+Caprice,Riyadh,Chevrolet,Automatic,Other,Standard,2011,5.7,290000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.6,79000,True
+E,Dammam,Mercedes,Manual,Saudi,Standard,1983,2.0,300000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Semi Full,2012,5.7,211,True
+Camry,Makkah,Toyota,Manual,Saudi,Full,2005,2.5,400000,True
+Acadia,Riyadh,GMC,Automatic,Saudi,Standard,2008,3.6,260000,True
+CX9,Jazan,Mazda,Automatic,Saudi,Semi Full,2015,3.7,93000,True
+Armada,Jeddah,Nissan,Automatic,Gulf Arabic,Full,2007,5.6,290000,True
+Innova,Makkah,Toyota,Automatic,Gulf Arabic,Standard,2020,2.7,49000,True
+Wingle,Taef,Great Wall,Manual,Saudi,Semi Full,2021,2.0,10000,True
+Focus,Riyadh,Ford,Automatic,Other,Standard,2012,1.5,180000,True
+Prado,Dammam,Toyota,Automatic,Gulf Arabic,Full,2016,4.0,122000,True
+Rio,Taef,Kia,Automatic,Unknown,Standard,2017,1.4,9999,True
+LS,Makkah,Lexus,Automatic,Other,Full,2000,8.0,196,True
+Suburban,Al-Medina,Chevrolet,Automatic,Saudi,Standard,2015,4.0,75000,True
+Rav4,Qassim,Toyota,Automatic,Saudi,Standard,2019,2.5,35000,True
+Marquis,Riyadh,Ford,Automatic,Other,Semi Full,2010,4.6,285000,True
+Expedition,Riyadh,Ford,Automatic,Saudi,Semi Full,2008,5.4,171000,True
+Camry,Aseer,Toyota,Automatic,Saudi,Standard,2020,2.5,19000,True
+Yaris,Riyadh,Toyota,Manual,Saudi,Standard,2007,1.5,170000,True
+Taurus,Aseer,Ford,Automatic,Other,Semi Full,2011,3.5,400000,True
+Land Cruiser Pickup,Jazan,Toyota,Manual,Saudi,Standard,2012,4.0,144928,True
+Avalon,Jeddah,Toyota,Automatic,Saudi,Full,2020,3.6,22000,True
+Range Rover,Dammam,Land Rover,Automatic,Saudi,Full,2016,5.0,202000,True
+Tahoe,Qassim,Chevrolet,Automatic,Other,Semi Full,2016,5.3,184000,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2020,2.7,95000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2006,4.6,350000,True
+Land Cruiser 70,Al-Medina,Toyota,Manual,Saudi,Semi Full,2016,2.7,182000,True
+LS,Hail,Lexus,Automatic,Saudi,Semi Full,2003,9.0,470000,True
+Hilux,Al-Jouf,Toyota,Manual,Gulf Arabic,Full,2016,2.4,164000,True
+H1,Jeddah,Hyundai,Automatic,Saudi,Full,2020,2.4,40000,True
+Yaris,Al-Ahsa,Toyota,Automatic,Saudi,Semi Full,2019,1.5,9900,True
+Explorer,Riyadh,Ford,Automatic,Saudi,Standard,2010,4.0,255000,True
+Yaris,Aseer,Toyota,Automatic,Other,Full,2008,1.5,300,True
+Azera,Hafar Al-Batin,Hyundai,Automatic,Other,Full,2015,4.3,81000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Other,Semi Full,2006,4.7,4000000,True
+Sentra,Sakaka,Nissan,Automatic,Saudi,Standard,2015,1.6,180000,True
+ES,Al-Medina,Lexus,Automatic,Gulf Arabic,Full,2017,3.5,128000,True
+LX,Aseer,Lexus,Automatic,Gulf Arabic,Full,2021,5.7,5000,True
+Hilux,Arar,Toyota,Automatic,Saudi,Full,2020,2.7,8440,True
+CX9,Khobar,Mazda,Automatic,Saudi,Full,2020,2.5,29000,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2013,6.0,247,True
+Corolla,Riyadh,Toyota,Manual,Saudi,Semi Full,2010,1.6,606645,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Standard,2010,5.3,197289,True
+Marquis,Jeddah,Ford,Automatic,Other,Full,2006,4.6,300,True
+Cerato,Dammam,Kia,Automatic,Other,Semi Full,2016,1.6,146268,True
+Sonata,Hail,Hyundai,Automatic,Other,Full,2017,2.4,135,True
+H1,Riyadh,Hyundai,Automatic,Saudi,Full,2017,2.4,217623,True
+ES,Makkah,Lexus,Automatic,Saudi,Full,2009,6.0,248000,True
+Yukon,Tabouk,GMC,Automatic,Gulf Arabic,Semi Full,2008,5.3,320000,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Full,2011,4.0,285,True
+Datsun,Dammam,Nissan,Manual,Saudi,Standard,2008,2.4,200000,True
+Datsun,Riyadh,Nissan,Manual,Saudi,Full,2015,2.4,225,True
+Hilux,Wadi Dawasir,Toyota,Manual,Saudi,Full,2018,2.4,149000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.4,49000,True
+Yukon,Dammam,GMC,Automatic,Saudi,Standard,2016,5.3,174000,True
+Expedition,Jubail,Ford,Automatic,Saudi,Semi Full,2011,1.6,173000,True
+Sierra,Abha,GMC,Automatic,Other,Semi Full,2014,5.3,71000,True
+Accord,Riyadh,Honda,Automatic,Saudi,Semi Full,2012,2.4,145000,True
+Compass,Riyadh,Jeep,Automatic,Saudi,Standard,2016,4.0,100,True
+Camaro,Riyadh,Chevrolet,Automatic,Saudi,Full,2016,6.2,161000,True
+Corolla,Jazan,Toyota,Manual,Saudi,Semi Full,2013,1.6,250000,True
+Yukon,Riyadh,GMC,Automatic,Saudi,Full,2010,9.0,172000,True
+Durango,Riyadh,Dodge,Automatic,Saudi,Standard,2016,3.6,48000,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2020,2.5,23000,True
+Attrage,Jeddah,Mitsubishi,Automatic,Saudi,Standard,2018,1.2,80000,True
+Traverse,Hail,Chevrolet,Automatic,Saudi,Full,2009,3.6,230000,True
+Land Cruiser,Taef,Toyota,Automatic,Saudi,Full,2017,5.7,63000,True
+Corolla,Riyadh,Toyota,Manual,Saudi,Standard,2004,1.3,40000,True
+X-Trail,Riyadh,Nissan,Automatic,Saudi,Full,2020,2.5,3171,True
+Accord,Hail,Honda,Automatic,Other,Semi Full,2016,2.4,100,True
+Camry,Khobar,Toyota,Manual,Other,Semi Full,2005,2.0,550000,True
+Pajero,Qassim,Mitsubishi,Automatic,Gulf Arabic,Standard,2017,3.5,152000,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2018,1.6,60000,True
+C,Qassim,Mercedes,Automatic,Gulf Arabic,Full,2021,2.0,600,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2016,1.6,40000,True
+Impala,Qassim,Chevrolet,Automatic,Saudi,Semi Full,2016,3.6,180000,True
+Caprice,Najran,Chevrolet,Automatic,Saudi,Full,2004,6.0,237000,True
+Land Cruiser,Qassim,Toyota,Manual,Saudi,Semi Full,2002,4.6,600000,True
+Tahoe,Dammam,Chevrolet,Automatic,Saudi,Semi Full,2008,5.3,174000,True
+Land Cruiser,Taef,Toyota,Manual,Gulf Arabic,Semi Full,1999,1.1,300000,True
+LX,Jeddah,Lexus,Automatic,Saudi,Full,2007,5.7,184000,True
+Dokker,Makkah,Renault,Manual,Other,Standard,2013,1.6,167000,True
+Suburban,Jubail,GMC,Automatic,Saudi,Standard,1995,5.3,223000,True
+Bronco,Jeddah,Ford,Automatic,Other,Full,1979,4.9,26000,True
+Sierra,Riyadh,GMC,Automatic,Saudi,Full,2010,8.0,700000,True
+Land Cruiser,Qassim,Toyota,Automatic,Saudi,Full,2014,4.6,169500,True
+Azera,Al-Ahsa,Hyundai,Automatic,Other,Full,2016,2.4,84000,True
+Victoria,Riyadh,Ford,Automatic,Saudi,Standard,2009,4.6,141000,True
+Yukon,Taef,GMC,Automatic,Other,Full,2005,5.3,30000,True
+Taurus,Khobar,Ford,Automatic,Saudi,Standard,2020,2.0,32151,True
+Accent,Riyadh,Hyundai,Automatic,Saudi,Standard,2021,1.4,6000,True
+ES,Jeddah,Lexus,Automatic,Saudi,Full,2014,2.5,27000,True
+Innova,Riyadh,Toyota,Manual,Gulf Arabic,Full,2008,2.7,489181,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Gulf Arabic,Semi Full,2013,1.0,150,True
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2015,1.6,126000,True
+E,Qassim,Mercedes,Automatic,Other,Full,2016,3.2,106642,True
+Camaro,Tabouk,Chevrolet,Automatic,Other,Full,2010,6.2,247000,True
+Land Cruiser Pickup,Tabouk,Toyota,Manual,Gulf Arabic,Full,2014,4.0,410,True
+Corolla,Riyadh,Toyota,Automatic,Saudi,Standard,2018,1.6,98041,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Standard,2008,2.7,425000,True
+Land Cruiser,Aseer,Toyota,Manual,Saudi,Standard,2008,4.6,280,True
+Victoria,Riyadh,Ford,Automatic,Other,Full,2011,4.6,250000,True
+Ciocca,Dammam,Toyota,Automatic,Saudi,Semi Full,2015,5.7,255,True
+Datsun,Arar,Nissan,Manual,Saudi,Full,2016,1.2,60000,True
+Hilux,Yanbu,Toyota,Manual,Saudi,Full,2016,2.7,89000,True
+POS24,Riyadh,Mercedes,Manual,Other,Standard,1982,2.4,100000,True
+Land Cruiser,Al-Jouf,Toyota,Automatic,Saudi,Full,2015,4.6,213000,True
+Tahoe,Taef,Chevrolet,Automatic,Other,Full,2007,8.0,300000,True
+Focus,Dammam,Ford,Automatic,Gulf Arabic,Semi Full,2017,1.6,85000,True
+Datsun,Aseer,Nissan,Manual,Saudi,Standard,2015,1.0,223000,True
+Land Cruiser 70,Tabouk,Toyota,Manual,Saudi,Full,2018,4.0,70250,True
+Suburban,Riyadh,Chevrolet,Automatic,Saudi,Semi Full,2015,5.3,232000,True
+Tahoe,Jubail,Chevrolet,Automatic,Saudi,Full,2015,6.0,26000,True
+Taurus,Riyadh,Ford,Automatic,Other,Full,2013,3.5,296000,True
+Azera,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2020,3.0,100000,True
+Suburban,Aseer,GMC,Automatic,Saudi,Semi Full,1995,5.3,307000,True
+Camaro,Tabouk,Chevrolet,Automatic,Saudi,Full,2010,6.2,258,True
+Hilux,Riyadh,Toyota,Manual,Saudi,Semi Full,2014,2.7,532000,True
+Senta fe,Aseer,Hyundai,Automatic,Saudi,Semi Full,2016,3.3,190000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2013,2.5,185000,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Full,2010,2.4,298000,True
+Hilux,Jazan,Toyota,Manual,Gulf Arabic,Full,1993,2.4,25000,True
+Land Cruiser,Al-Baha,Toyota,Automatic,Saudi,Full,2020,4.6,7000,True
+C300,Riyadh,Chrysler,Automatic,Saudi,Full,2014,5.7,195517,True
+Camry,Besha,Toyota,Automatic,Saudi,Standard,2016,2.5,48000,True
+Pajero,Abha,Mitsubishi,Automatic,Saudi,Full,2007,3.0,380000,True
+Accord,Makkah,Honda,Automatic,Saudi,Semi Full,2007,2.4,45000,True
+Elantra,Taef,Hyundai,Automatic,Saudi,Standard,2014,2.0,163000,True
+FJ,Riyadh,Toyota,Automatic,Saudi,Standard,2013,4.0,260000,True
+Marquis,Aseer,Ford,Automatic,Gulf Arabic,Semi Full,2005,8.0,291000,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Standard,2010,6.0,243,True
+Optima,Dammam,Kia,Automatic,Saudi,Semi Full,2019,2.4,65000,True
+Datsun,Qassim,Nissan,Manual,Unknown,Full,2012,2.4,563000,True
+Furniture,Al-Medina,Toyota,Automatic,Saudi,Standard,2016,2.5,119000,True
+Land Cruiser Pickup,Makkah,Toyota,Manual,Gulf Arabic,Full,2010,4.0,410,True
+CX3,Riyadh,Mazda,Automatic,Saudi,Semi Full,2019,2.0,49000,True
+Cadenza,Sakaka,Kia,Automatic,Saudi,Semi Full,2020,3.3,67000,True
+Victoria,Riyadh,Ford,Automatic,Saudi,Standard,1999,4.6,600,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Standard,2019,1.6,110,True
+Yukon,Al-Medina,GMC,Automatic,Saudi,Full,2016,4.0,139000,True
+Explorer,Qassim,Ford,Automatic,Saudi,Standard,2005,3.5,200000,True
+Charger,Hafar Al-Batin,Dodge,Automatic,Other,Standard,2017,1.5,28923,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2020,4.6,16000,True
+Camry,Al-Medina,Toyota,Automatic,Saudi,Full,2016,2.5,162000,True
+Corolla,Riyadh,Toyota,Automatic,Saudi,Full,2015,1.6,122000,True
+ES,Al-Medina,Lexus,Automatic,Saudi,Semi Full,2007,3.5,300000,True
+Tahoe,Al-Ahsa,Chevrolet,Automatic,Other,Full,2015,6.0,268000,True
+Echo,Riyadh,Toyota,Manual,Saudi,Standard,2004,5.4,550,True
+Marquis,Taef,Ford,Automatic,Saudi,Standard,2010,4.6,290,True
+The 7,Riyadh,BMW,Automatic,Saudi,Standard,2010,2.0,149,True
+Sonata,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2017,1.4,151000,True
+Silverado,Abha,Chevrolet,Automatic,Saudi,Semi Full,2012,6.0,310,True
+H1,Qassim,Hyundai,Automatic,Saudi,Standard,2013,2.4,251406,True
+Yukon,Dammam,GMC,Manual,Other,Standard,2007,5.3,329131,True
+3,Aseer,Mazda,Automatic,Saudi,Standard,2006,2.4,334,True
+Elantra,Riyadh,Hyundai,Automatic,Saudi,Semi Full,2015,2.0,229828,True
+Hilux,Al-Medina,Toyota,Automatic,Saudi,Full,2015,2.4,237,True
+Camry,Riyadh,Toyota,Automatic,Unknown,Standard,2016,2.5,254000,True
+Land Cruiser 70,Qassim,Toyota,Manual,Saudi,Semi Full,2011,4.0,330,True
+Taurus,Taef,Ford,Automatic,Other,Full,2013,3.5,308,True
+Passat,Jubail,Volkswagen,Automatic,Saudi,Semi Full,2014,2.5,262000,True
+Land Cruiser 70,Qassim,Toyota,Manual,Saudi,Standard,2007,4.0,168000,True
+Liberty,Jeddah,Jeep,Automatic,Other,Semi Full,2012,3.7,200000,True
+Yukon,Aseer,GMC,Automatic,Saudi,Semi Full,2014,5.3,100,True
+Caprice,Riyadh,Chevrolet,Automatic,Saudi,Full,1983,6.0,600000,True
+RX5,Riyadh,MG,Automatic,Saudi,Full,2018,2.0,80000,True
+Navigator,Dammam,Lincoln,Automatic,Gulf Arabic,Full,2005,5.7,326000,True
+Accord,Jeddah,Honda,Automatic,Saudi,Standard,2019,1.5,91000,True
+Sonata,Hafar Al-Batin,Hyundai,Automatic,Saudi,Semi Full,2017,2.5,174000,True
+Expedition,Najran,Ford,Automatic,Saudi,Full,2005,6.8,3005,True
+GL,Riyadh,Mercedes,Manual,Saudi,Full,2014,4.6,130000,True
+Land Cruiser,Aseer,Toyota,Automatic,Saudi,Full,2013,8.0,260,True
+H1,Qassim,Hyundai,Automatic,Other,Standard,2016,2.4,106,True
+Furniture,Riyadh,Toyota,Automatic,Saudi,Full,2021,4.0,13000,True
+APV,Dammam,Suzuki,Manual,Saudi,Standard,2016,1.6,124000,True
+Victoria,Al-Baha,Ford,Automatic,Gulf Arabic,Semi Full,2001,1.8,35000,True
+Edge,Hail,Ford,Automatic,Gulf Arabic,Semi Full,2014,2.5,207000,True
+D-MAX,Riyadh,Isuzu,Automatic,Saudi,Semi Full,2019,3.0,86000,True
+A8,Riyadh,Audi,Automatic,Saudi,Full,2013,3.0,172678,True
+Azera,Taef,Hyundai,Automatic,Saudi,Full,2015,3.3,187,True
+Terios,Makkah,Daihatsu,Automatic,Saudi,Semi Full,2010,1.6,248000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Gulf Arabic,Full,2020,5.7,13000,True
+Elantra,Al-Jouf,Hyundai,Automatic,Unknown,Standard,2016,2.0,120000,True
+Centennial,Aseer,Hyundai,Automatic,Saudi,Full,2016,3.8,112000,True
+Pathfinder,Riyadh,Nissan,Automatic,Unknown,Semi Full,2003,3.5,500000,True
+Impala,Riyadh,Chevrolet,Automatic,Saudi,Full,2015,3.6,285000,True
+Tahoe,Aseer,Chevrolet,Automatic,Saudi,Semi Full,2015,5.3,65000,True
+Furniture,Aseer,Toyota,Manual,Saudi,Standard,2009,2.7,335000,True
+Malibu,Qassim,Chevrolet,Automatic,Other,Full,2016,2.5,202000,True
+Taurus,Riyadh,Ford,Automatic,Other,Full,2014,3.5,260,True
+Suburban,Abha,GMC,Automatic,Saudi,Full,2003,5.3,415000,True
+Aurion,Qassim,Toyota,Automatic,Saudi,Standard,2010,3.5,4900000,True
+Cruze,Makkah,Chevrolet,Automatic,Saudi,Full,2017,1.4,119000,True
+Victoria,Riyadh,Ford,Automatic,Saudi,Standard,2006,4.7,200000,True
+Land Cruiser,Yanbu,Toyota,Automatic,Saudi,Standard,2011,4.7,333900,True
+Tahoe,Riyadh,Chevrolet,Automatic,Saudi,Full,2013,5.3,206344,True
+Prado,Al-Medina,Toyota,Automatic,Saudi,Semi Full,2016,4.0,240,True
+ES,Jeddah,Lexus,Automatic,Saudi,Full,2008,3.5,260000,True
+Marquis,Riyadh,Ford,Automatic,Saudi,Full,2010,4.6,200009,True
+Hiace,Makkah,Toyota,Manual,Saudi,Standard,2016,1.1,208268,True
+Dakota,Riyadh,Dodge,Manual,Other,Semi Full,2003,1.0,98000,True
+X,Dammam,BMW,Automatic,Saudi,Full,2009,4.4,404000,True
+Pajero,Dammam,Mitsubishi,Automatic,Saudi,Standard,2016,3.8,199000,True
+Sierra,Jeddah,GMC,Manual,Saudi,Semi Full,1981,5.3,350,True
+Malibu,Al-Medina,Chevrolet,Automatic,Saudi,Standard,2013,2.0,200,True
+Camry,Riyadh,Toyota,Automatic,Saudi,Standard,2017,2.5,312000,True
+Prado,Dammam,Toyota,Automatic,Saudi,Semi Full,2016,2.7,138000,True
+Sonata,Taef,Hyundai,Automatic,Other,Full,2016,2.4,223,True
+Expedition,Jeddah,Ford,Automatic,Saudi,Standard,2013,8.9,280000,True
+Land Cruiser,Riyadh,Toyota,Automatic,Saudi,Semi Full,2011,4.6,324000,True
+S,Besha,Mercedes,Automatic,Saudi,Full,2014,8.0,119,True
+Other,Aseer,Isuzu,Manual,Other,Full,2015,2.5,100,True
+Sonata,Makkah,Hyundai,Automatic,Saudi,Full,2013,3.1,310000,True
+Corolla,Besha,Toyota,Manual,Saudi,Standard,2015,1.6,280,True
+Caprice,Qassim,Chevrolet,Automatic,Other,Semi Full,2007,6.0,300,True
+Taurus,Tabouk,Ford,Automatic,Saudi,Standard,2016,3.5,170000,True
+Sierra,Riyadh,GMC,Automatic,Saudi,Standard,2013,5.3,137000,True
+Land Cruiser Pickup,Riyadh,Toyota,Manual,Saudi,Semi Full,2016,4.6,284,True
+Sierra,Tabouk,GMC,Automatic,Saudi,Full,2017,5.3,81000,True
+Town Car,Jeddah,Lincoln,Automatic,Other,Full,1999,5.0,343,True
+Victoria,Makkah,Ford,Automatic,Saudi,Standard,2010,4.6,345000,True
+Yukon,Jubail,GMC,Automatic,Saudi,Semi Full,2006,5.3,300,True
+Altima,Jeddah,Nissan,Automatic,Saudi,Semi Full,2020,2.5,58000,True
+ES,Jeddah,Lexus,Automatic,Other,Full,2017,3.5,115000,True
