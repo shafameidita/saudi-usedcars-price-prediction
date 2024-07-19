@@ -1,3 +1,9 @@
+# Purwadhika Capstone 3
+Saudi Arabia Used Cars Price Prediction
+--- 
+This repository utilizes the Machine Learning Modelling Process for Module 3 as a part of the Digital Talent Incubator (DTI) learning process by Purwadhika.
+
+--- 
 `Business Context` <br>
 
 The used car market in Saudi Arabia is a significant contributor to the automotive industry. Economic conditions and cultural preferences drive consumer preference for used cars, which offer competitive pricing and accessible financing options. Online platforms like Syarah.com streamline transactions, providing transparency and a diverse range of vehicle choices, from practical everyday cars to luxurious SUVs. Market participants employ competitive pricing strategies to meet diverse consumer demands, ensuring robust growth and sustained high demand in the Saudi Arabian used car market.
